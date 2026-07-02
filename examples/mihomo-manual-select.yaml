@@ -2,6 +2,7 @@ proxy-providers:
   Airport_01:
     type: http
     interval: 1800
+    path: ./proxy-providers/Airport_01.yaml
     health-check:
       enable: true
       url: https://www.gstatic.com/generate_204
@@ -119,53 +120,53 @@ proxies:
     udp: true
 
 # 策略组
-# 仅保留新规则对应的大类；每个分流组都可以直接手动选择具体节点。
+# 仅保留新规则对应的大类；每个分流组都显式引用 Airport_01，方便直接手动选择具体节点。
 proxy-groups:
   - name: 🚀 节点选择
     type: select
-    include-all: true
+    use: [Airport_01]
     proxies:
-      - 🌐 全部节点
       - 🟢 直连
 
   - name: 🤖 海外AI
     type: select
-    include-all: true
+    use: [Airport_01]
     proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
 
   - name: 📹 YouTube
     type: select
-    include-all: true
+    use: [Airport_01]
     proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
 
   - name: 🍀 Google
     type: select
-    include-all: true
+    use: [Airport_01]
     proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
 
   - name: 🐬 OneDrive
     type: select
-    include-all: true
+    use: [Airport_01]
     proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
 
   - name: 📲 Telegram
     type: select
-    include-all: true
+    use: [Airport_01]
     proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
 
   - name: 🎯 全球直连
     type: select
-    include-all: true
+    use: [Airport_01]
     proxies: [🟢 直连, 🚀 节点选择, 🌐 全部节点]
 
   - name: 🐟 漏网之鱼
     type: select
-    include-all: true
+    use: [Airport_01]
     proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
 
   - name: 🌐 全部节点
     type: select
-    include-all: true
+    use: [Airport_01]
+    proxies: [🟢 直连]
 
 rules:
   # phyrevue/rule 新规则，顺序不要随意调整。
@@ -189,18 +190,24 @@ rule-providers:
   OverseasAI:
     <<: *class
     url: "https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/OverseasAI/OverseasAI.list"
+    path: ./rule-providers/OverseasAI.list
   YouTube:
     <<: *class
     url: "https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/YouTube/YouTube.list"
+    path: ./rule-providers/YouTube.list
   Google:
     <<: *class
     url: "https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/Google/Google.list"
+    path: ./rule-providers/Google.list
   OneDrive:
     <<: *class
     url: "https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/OneDrive/OneDrive.list"
+    path: ./rule-providers/OneDrive.list
   Telegram:
     <<: *class
     url: "https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/Telegram/Telegram.list"
+    path: ./rule-providers/Telegram.list
   Direct:
     <<: *class
     url: "https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/Direct/Direct.list"
+    path: ./rule-providers/Direct.list
