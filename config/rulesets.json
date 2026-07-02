@@ -1,0 +1,81 @@
+{
+  "project": {
+    "name": "phyrevue/rule",
+    "repo": "https://github.com/phyrevue/rule",
+    "raw_base": "https://raw.githubusercontent.com/phyrevue/rule/main"
+  },
+  "categories": [
+    {
+      "name": "OverseasAI",
+      "display_name": "海外AI",
+      "priority": 1,
+      "policy": "OverseasAI",
+      "description": "海外 AI 服务分流规则，直接同步 viewer12/OverseasAI.list，使用时应放在 Google 前面。",
+      "source": {
+        "type": "overseas_ai",
+        "repo": "https://github.com/viewer12/OverseasAI.list",
+        "path": "rule/Clash/OverseasAI/OverseasAI.list"
+      }
+    },
+    {
+      "name": "YouTube",
+      "display_name": "YouTube",
+      "priority": 2,
+      "policy": "YouTube",
+      "description": "YouTube 及相关视频域名。",
+      "source": {
+        "type": "ios_rule_script",
+        "repo": "https://github.com/blackmatrix7/ios_rule_script",
+        "sets": ["YouTube"]
+      }
+    },
+    {
+      "name": "Google",
+      "display_name": "Google",
+      "priority": 3,
+      "policy": "Google",
+      "description": "Google 通用服务域名。请放在 OverseasAI 和 YouTube 之后。",
+      "source": {
+        "type": "ios_rule_script",
+        "repo": "https://github.com/blackmatrix7/ios_rule_script",
+        "sets": ["Google"]
+      }
+    },
+    {
+      "name": "OneDrive",
+      "display_name": "OneDrive",
+      "priority": 5,
+      "policy": "OneDrive",
+      "description": "Microsoft OneDrive 及相关存储域名。",
+      "source": {
+        "type": "ios_rule_script",
+        "repo": "https://github.com/blackmatrix7/ios_rule_script",
+        "sets": ["OneDrive"]
+      }
+    },
+    {
+      "name": "Telegram",
+      "display_name": "Telegram",
+      "priority": 7,
+      "policy": "Telegram",
+      "description": "Telegram 及第三方客户端相关域名和 IP 规则。",
+      "source": {
+        "type": "ios_rule_script",
+        "repo": "https://github.com/blackmatrix7/ios_rule_script",
+        "sets": ["Telegram"]
+      }
+    },
+    {
+      "name": "Direct",
+      "display_name": "直连",
+      "priority": 8,
+      "policy": "DIRECT",
+      "description": "局域网、常见直连域名和中国大陆域名/IP，合并自 Lan、Direct、China。",
+      "source": {
+        "type": "ios_rule_script",
+        "repo": "https://github.com/blackmatrix7/ios_rule_script",
+        "sets": ["Lan", "Direct", "China"]
+      }
+    }
+  ]
+}
