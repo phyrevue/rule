@@ -106,10 +106,10 @@ dns:
     - 223.5.5.5
     - 119.29.29.29
   nameserver-policy:
-    "rule-set:private_domain,cn_domain":
+    "geosite:private,cn":
       - 223.5.5.5
       - 119.29.29.29
-    "rule-set:geolocation-!cn":
+    "geosite:geolocation-!cn":
       - https://dns.cloudflare.com/dns-query
       - https://dns.google/dns-query
 
@@ -119,8 +119,7 @@ proxies:
     udp: true
 
 # 策略组
-# 仅保留手动选择组。
-# 每个业务分流组都开启 include-all，可直接手动选择机场里的具体节点。
+# 仅保留新规则对应的大类；每个分流组都可以直接手动选择具体节点。
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -144,22 +143,7 @@ proxy-groups:
     include-all: true
     proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
 
-  - name: 👨🏿‍💻 GitHub
-    type: select
-    include-all: true
-    proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
-
   - name: 🐬 OneDrive
-    type: select
-    include-all: true
-    proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
-
-  - name: 🪟 Microsoft
-    type: select
-    include-all: true
-    proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
-
-  - name: 🎵 TikTok
     type: select
     include-all: true
     proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
@@ -168,26 +152,6 @@ proxy-groups:
     type: select
     include-all: true
     proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
-
-  - name: 🎥 NETFLIX
-    type: select
-    include-all: true
-    proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
-
-  - name: ✈️ Speedtest
-    type: select
-    include-all: true
-    proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
-
-  - name: 💶 PayPal
-    type: select
-    include-all: true
-    proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
-
-  - name: 🍎 Apple
-    type: select
-    include-all: true
-    proxies: [🟢 直连, 🚀 节点选择, 🌐 全部节点]
 
   - name: 🎯 全球直连
     type: select
@@ -204,55 +168,17 @@ proxy-groups:
     include-all: true
 
 rules:
-  - RULE-SET,private_domain,🟢 直连
-  - RULE-SET,apple_domain,🍎 Apple
-
-  # PayPal 独立策略组放在 OverseasAI 前面，避免被 OverseasAI 中的支付相关规则先命中。
-  # 如果你希望 PayPal 跟随海外 AI，把这一行移动到 OverseasAI 后面即可。
-  - RULE-SET,paypal_domain,💶 PayPal
-
   # phyrevue/rule 新规则，顺序不要随意调整。
   - RULE-SET,OverseasAI,🤖 海外AI
   - RULE-SET,YouTube,📹 YouTube
   - RULE-SET,Google,🍀 Google
   - RULE-SET,OneDrive,🐬 OneDrive
   - RULE-SET,Telegram,📲 Telegram
-
-  # 其它常用分流保留 MetaCubeX geosite/geoip。
-  - RULE-SET,github_domain,👨🏿‍💻 GitHub
-  - RULE-SET,microsoft_domain,🪟 Microsoft
-  - RULE-SET,tiktok_domain,🎵 TikTok
-  - RULE-SET,speedtest_domain,✈️ Speedtest
-  - RULE-SET,netflix_domain,🎥 NETFLIX
-
-  # phyrevue/rule Direct：局域网、常见直连、国内域名补充。
   - RULE-SET,Direct,🎯 全球直连
-
-  - RULE-SET,proxylite,🚀 节点选择
-  - RULE-SET,geolocation-!cn,🚀 节点选择
-  - RULE-SET,cn_domain,🎯 全球直连
-  - RULE-SET,google_ip,🍀 Google,no-resolve
-  - RULE-SET,netflix_ip,🎥 NETFLIX,no-resolve
-  - RULE-SET,telegram_ip,📲 Telegram,no-resolve
-  - RULE-SET,cn_ip,🎯 全球直连,no-resolve
+  - GEOIP,CN,🎯 全球直连,no-resolve
   - MATCH,🐟 漏网之鱼
 
 rule-anchor:
-  ip: &ip
-    type: http
-    interval: 86400
-    behavior: ipcidr
-    format: mrs
-  domain: &domain
-    type: http
-    interval: 86400
-    behavior: domain
-    format: mrs
-  text-domain: &text-domain
-    type: http
-    interval: 86400
-    behavior: domain
-    format: text
   class: &class
     type: http
     interval: 86400
@@ -260,16 +186,6 @@ rule-anchor:
     format: text
 
 rule-providers:
-  private_domain:
-    <<: *domain
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs"
-  apple_domain:
-    <<: *domain
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-cn.mrs"
-  paypal_domain:
-    <<: *domain
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/paypal.mrs"
-
   OverseasAI:
     <<: *class
     url: "https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/OverseasAI/OverseasAI.list"
@@ -288,41 +204,3 @@ rule-providers:
   Direct:
     <<: *class
     url: "https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/Direct/Direct.list"
-
-  proxylite:
-    <<: *text-domain
-    url: "https://raw.githubusercontent.com/qcyhub/rule/master/ProxyLite.list"
-  github_domain:
-    <<: *domain
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.mrs"
-  microsoft_domain:
-    <<: *domain
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.mrs"
-  speedtest_domain:
-    <<: *domain
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ookla-speedtest.mrs"
-  tiktok_domain:
-    <<: *domain
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.mrs"
-  netflix_domain:
-    <<: *domain
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.mrs"
-  geolocation-!cn:
-    <<: *domain
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.mrs"
-  cn_domain:
-    <<: *domain
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs"
-
-  cn_ip:
-    <<: *ip
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs"
-  google_ip:
-    <<: *ip
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/google.mrs"
-  telegram_ip:
-    <<: *ip
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.mrs"
-  netflix_ip:
-    <<: *ip
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.mrs"
