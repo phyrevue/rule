@@ -1,5 +1,5 @@
 proxy-providers:
-  &airport_provider Airport_01:
+  Airport_01:
     type: http
     interval: 1800
     path: ./proxy-providers/Airport_01.yaml
@@ -119,48 +119,47 @@ proxies:
     udp: true
 
 # 策略组
-# 仅保留新规则对应的大类；每个分流组都显式引用 Airport_01，方便直接手动选择具体节点。
-# 如果要改机场 provider 名称，只需要改上面的 `&airport_provider Airport_01:` 这一行。
-# 如果有多个机场 provider，给每个 provider key 增加锚点，并把下面的 `&airport_providers [...]` 列表补齐。
+# 仅保留新规则对应的大类；每个分流组会自动纳入所有 proxy-providers 节点。
+# 如果有多个机场 provider，只需要在 proxy-providers 里继续新增，不需要改下面的分流组。
 proxy-groups:
   - name: 🚀 节点选择
     type: select
-    use: &airport_providers [*airport_provider]
+    include-all-providers: true
     proxies: [🟢 直连]
 
   - name: 🤖 海外AI
     type: select
-    use: *airport_providers
+    include-all-providers: true
     proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 📹 YouTube
     type: select
-    use: *airport_providers
+    include-all-providers: true
     proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 🍀 Google
     type: select
-    use: *airport_providers
+    include-all-providers: true
     proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 🐬 OneDrive
     type: select
-    use: *airport_providers
+    include-all-providers: true
     proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 📲 Telegram
     type: select
-    use: *airport_providers
+    include-all-providers: true
     proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 🎯 全球直连
     type: select
-    use: *airport_providers
+    include-all-providers: true
     proxies: [🟢 直连, 🚀 节点选择]
 
   - name: 🐟 漏网之鱼
     type: select
-    use: *airport_providers
+    include-all-providers: true
     proxies: [🚀 节点选择, 🟢 直连]
 
 rules:
