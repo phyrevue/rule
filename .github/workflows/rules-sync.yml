@@ -24,6 +24,8 @@ jobs:
           git clone --depth 1 https://github.com/viewer12/OverseasAI.list.git /tmp/OverseasAI.list
       - name: Sync rules
         run: python3 scripts/sync_rules.py --ios-upstream /tmp/ios_rule_script --ai-upstream /tmp/OverseasAI.list
+      - name: Audit upstream coverage
+        run: python3 scripts/audit_upstream.py --ios-upstream /tmp/ios_rule_script
       - name: Check OverseasAI domains
         run: python3 scripts/check_domains.py --category OverseasAI
       - name: Commit and push if changed

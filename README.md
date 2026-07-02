@@ -7,11 +7,11 @@
 | 优先级 | 分类 | 说明 |
 | ---: | --- | --- |
 | 1 | OverseasAI | 海外 AI，直接同步 `viewer12/OverseasAI.list`，优先级最高 |
-| 2 | YouTube | YouTube 及相关视频域名 |
-| 3 | Google | Google 通用服务，放在 OverseasAI 和 YouTube 之后 |
+| 2 | YouTube | YouTube / YouTube Music 及相关视频域名 |
+| 3 | Google | Google 通用服务，补充 Drive / FCM / Voice / Search / Earth，放在 OverseasAI 和 YouTube 之后 |
 | 5 | OneDrive | OneDrive 及相关存储服务 |
-| 7 | Telegram | Telegram 域名、IP 和进程规则 |
-| 8 | Direct | 直连规则，合并 `Lan + Direct + China` |
+| 7 | Telegram | Telegram 域名、IP、进程规则，补充 SG / NL / US 细分 IP 段 |
+| 8 | Direct | 直连规则，合并 `Lan + Direct + China + ChinaDNS + ChinaMaxNoIP` |
 
 > 规则匹配是从上到下的。比如 `gemini.google.com` 同时可能落入 AI/Google 相关域名，但只要把 `OverseasAI` 放在 `Google` 前面，就会优先命中海外 AI。
 
@@ -111,6 +111,7 @@ rule
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
 .venv/bin/python scripts/sync_rules.py
+.venv/bin/python scripts/audit_upstream.py
 .venv/bin/python scripts/check_domains.py --category OverseasAI
 ```
 
@@ -118,6 +119,9 @@ python3 -m venv .venv
 
 - `viewer12/OverseasAI.list`
 - `blackmatrix7/ios_rule_script`
+- `reports/upstream_audit.md` 会记录对 blackmatrix7 Clash 细分列表的覆盖审计
+
+`Direct` 使用 `ChinaMaxNoIP` 补齐大量国内域名，但没有合入完整 `ChinaIPs`。推荐保留示例里的 `GEOIP,CN,DIRECT` 来覆盖中国大陆 IP，这样规则文件不会膨胀得太夸张。
 
 ## 自定义规则
 

@@ -22,11 +22,11 @@
       "display_name": "YouTube",
       "priority": 2,
       "policy": "YouTube",
-      "description": "YouTube 及相关视频域名。",
+      "description": "YouTube、YouTube Music 及相关视频域名。",
       "source": {
         "type": "ios_rule_script",
         "repo": "https://github.com/blackmatrix7/ios_rule_script",
-        "sets": ["YouTube"]
+        "sets": ["YouTube", "YouTubeMusic"]
       }
     },
     {
@@ -34,11 +34,11 @@
       "display_name": "Google",
       "priority": 3,
       "policy": "Google",
-      "description": "Google 通用服务域名。请放在 OverseasAI 和 YouTube 之后。",
+      "description": "Google 通用服务，补充 Google Drive、FCM、Voice、Search、Earth。请放在 OverseasAI 和 YouTube 之后。",
       "source": {
         "type": "ios_rule_script",
         "repo": "https://github.com/blackmatrix7/ios_rule_script",
-        "sets": ["Google"]
+        "sets": ["Google", "GoogleDrive", "GoogleFCM", "GoogleVoice", "GoogleSearch", "GoogleEarth"]
       }
     },
     {
@@ -58,11 +58,11 @@
       "display_name": "Telegram",
       "priority": 7,
       "policy": "Telegram",
-      "description": "Telegram 及第三方客户端相关域名和 IP 规则。",
+      "description": "Telegram 及第三方客户端相关域名和 IP 规则，补充 SG/NL/US 细分 IP 段。",
       "source": {
         "type": "ios_rule_script",
         "repo": "https://github.com/blackmatrix7/ios_rule_script",
-        "sets": ["Telegram"]
+        "sets": ["Telegram", "TelegramSG", "TelegramNL", "TelegramUS"]
       }
     },
     {
@@ -70,11 +70,11 @@
       "display_name": "直连",
       "priority": 8,
       "policy": "DIRECT",
-      "description": "局域网、常见直连域名和中国大陆域名/IP，合并自 Lan、Direct、China。",
+      "description": "局域网、常见直连域名、中国大陆域名和国内 DoH，合并 ChinaMaxNoIP 提升域名覆盖。",
       "source": {
         "type": "ios_rule_script",
         "repo": "https://github.com/blackmatrix7/ios_rule_script",
-        "sets": ["Lan", "Direct", "China"]
+        "sets": ["Lan", "Direct", "China", "ChinaDNS", "ChinaMaxNoIP"]
       }
     }
   ]
