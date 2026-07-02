@@ -36,6 +36,8 @@ https://raw.githubusercontent.com/phyrevue/rule/main/
 
 ## Mihomo 示例
 
+完整的手动选择模板见 [`examples/mihomo-manual-select.yaml`](./examples/mihomo-manual-select.yaml)，已移除地区自动/故障转移组，并接入本仓库的新规则。
+
 ```yaml
 rule-providers:
   OverseasAI:
