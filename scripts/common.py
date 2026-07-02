@@ -18,7 +18,6 @@ RULE_ORDER = {
     "IP-CIDR6": 6,
     "IP-ASN": 7,
     "PROCESS-NAME": 8,
-    "USER-AGENT": 9,
 }
 
 COUNT_KEYS = [
@@ -31,7 +30,6 @@ COUNT_KEYS = [
     "IP-CIDR6",
     "IP-ASN",
     "PROCESS-NAME",
-    "USER-AGENT",
 ]
 
 SUPPORTED_RULE_TYPES = set(COUNT_KEYS)
@@ -113,6 +111,9 @@ def write_list(path: Path, header: list[str], rules: list[str]) -> None:
 
 def ensure_git_clone(url: str, dest: Path) -> Path:
     if dest.exists():
+        if not (dest / ".git").exists():
+            raise SystemExit(f"Path exists but is not a git repository: {dest}")
+        subprocess.run(["git", "-C", str(dest), "pull", "--ff-only"], check=True)
         return dest
     dest.parent.mkdir(parents=True, exist_ok=True)
     subprocess.run(["git", "clone", "--depth", "1", url, str(dest)], check=True)

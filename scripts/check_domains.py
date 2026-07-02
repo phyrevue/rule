@@ -71,6 +71,12 @@ def load_domains(root: Path, categories: list[str]) -> list[str]:
     return sorted(set(domains))
 
 
+def checked_date(value: str) -> str:
+    if not value:
+        return ""
+    return value.split("T", 1)[0]
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -113,8 +119,14 @@ def main() -> None:
         status = results.get(domain, "UNKNOWN")
         prev = state.get(domain, {"count": 0})
         count = int(prev.get("count", 0))
+        now_iso = datetime.utcnow().isoformat() + "Z"
+        today = checked_date(now_iso)
+        previous_check_date = checked_date(str(prev.get("last_checked", "")))
+        same_day_repeat = previous_check_date == today
+
         if status == "NXDOMAIN":
-            count += 1
+            if not same_day_repeat or prev.get("last_status") != "NXDOMAIN":
+                count += 1
         elif status == "OK":
             count = 0
         else:
@@ -123,7 +135,7 @@ def main() -> None:
         updated_state[domain] = {
             "count": count,
             "last_status": status,
-            "last_checked": datetime.utcnow().isoformat() + "Z",
+            "last_checked": now_iso,
         }
         counters[status] += 1
         if count >= THRESHOLD:

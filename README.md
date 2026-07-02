@@ -126,6 +126,8 @@ python3 -m venv .venv
 
 `Direct` 使用 `ChinaMaxNoIP` 补齐大量国内域名，但没有合入完整 `ChinaIPs`。推荐保留示例里的 `GEOIP,CN,DIRECT` 来覆盖中国大陆 IP，这样规则文件不会膨胀得太夸张。
 
+部分上游规则包含 `PROCESS-NAME` 和 `IP-ASN`：`PROCESS-NAME` 需要 Mihomo 开启合适的进程匹配能力才会命中，`IP-ASN` 需要内核支持 ASN 数据；域名和 CIDR 规则不受影响。本仓库会过滤 Clash/Mihomo 不直接支持的 `USER-AGENT` 规则。
+
 ## 自定义规则
 
 编辑对应分类的 `_Custom.list`，每行一条 classical 规则：

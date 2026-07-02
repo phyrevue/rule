@@ -85,6 +85,9 @@ def main() -> None:
         header_counts = parse_header_counts(header)
         actual_counts = Counter(rule.split(",", 1)[0] for rule in rules)
         duplicate_count = len(rules) - len(set(rules))
+        unsupported_types = sorted(set(actual_counts) - set(COUNT_KEYS))
+        if unsupported_types:
+            errors.append(f"{name}: unsupported rule type(s): {', '.join(unsupported_types)}")
 
         for key in COUNT_KEYS:
             if actual_counts.get(key) and header_counts.get(key) != actual_counts[key]:
