@@ -14,6 +14,8 @@ FORBIDDEN_RULES = {
 }
 
 EXPECTED_DOMAIN_MATCHES = {
+    "chatgpt.com": "OverseasAI",
+    "ab.chatgpt.com": "OverseasAI",
     "gemini.google.com": "OverseasAI",
     "www.google.com": "Google",
     "blogspot.am": "Google",

@@ -124,48 +124,42 @@ proxy-groups:
   - name: 🚀 节点选择
     type: select
     use: [Airport_01]
-    proxies:
-      - 🟢 直连
+    proxies: [🟢 直连]
 
   - name: 🤖 海外AI
     type: select
     use: [Airport_01]
-    proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
+    proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 📹 YouTube
     type: select
     use: [Airport_01]
-    proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
+    proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 🍀 Google
     type: select
     use: [Airport_01]
-    proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
+    proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 🐬 OneDrive
     type: select
     use: [Airport_01]
-    proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
+    proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 📲 Telegram
     type: select
     use: [Airport_01]
-    proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
+    proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 🎯 全球直连
     type: select
     use: [Airport_01]
-    proxies: [🟢 直连, 🚀 节点选择, 🌐 全部节点]
+    proxies: [🟢 直连, 🚀 节点选择]
 
   - name: 🐟 漏网之鱼
     type: select
     use: [Airport_01]
-    proxies: [🚀 节点选择, 🌐 全部节点, 🟢 直连]
-
-  - name: 🌐 全部节点
-    type: select
-    use: [Airport_01]
-    proxies: [🟢 直连]
+    proxies: [🚀 节点选择, 🟢 直连]
 
 rules:
   # phyrevue/rule 新规则，顺序不要随意调整。
@@ -184,6 +178,7 @@ rule-anchor:
     interval: 86400
     behavior: classical
     format: text
+    proxy: 🚀 节点选择
 
 rule-providers:
   OverseasAI:
