@@ -1,5 +1,5 @@
 proxy-providers:
-  Airport_01:
+  &airport_provider Airport_01:
     type: http
     interval: 1800
     path: ./proxy-providers/Airport_01.yaml
@@ -120,45 +120,46 @@ proxies:
 
 # 策略组
 # 仅保留新规则对应的大类；每个分流组都显式引用 Airport_01，方便直接手动选择具体节点。
+# 如果要改机场 provider 名称，只需要改上面的 `&airport_provider Airport_01:` 这一行。
 proxy-groups:
   - name: 🚀 节点选择
     type: select
-    use: [Airport_01]
+    use: [*airport_provider]
     proxies: [🟢 直连]
 
   - name: 🤖 海外AI
     type: select
-    use: [Airport_01]
+    use: [*airport_provider]
     proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 📹 YouTube
     type: select
-    use: [Airport_01]
+    use: [*airport_provider]
     proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 🍀 Google
     type: select
-    use: [Airport_01]
+    use: [*airport_provider]
     proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 🐬 OneDrive
     type: select
-    use: [Airport_01]
+    use: [*airport_provider]
     proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 📲 Telegram
     type: select
-    use: [Airport_01]
+    use: [*airport_provider]
     proxies: [🚀 节点选择, 🟢 直连]
 
   - name: 🎯 全球直连
     type: select
-    use: [Airport_01]
+    use: [*airport_provider]
     proxies: [🟢 直连, 🚀 节点选择]
 
   - name: 🐟 漏网之鱼
     type: select
-    use: [Airport_01]
+    use: [*airport_provider]
     proxies: [🚀 节点选择, 🟢 直连]
 
 rules:
