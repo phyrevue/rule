@@ -106,42 +106,6 @@ def build_header(
     return header
 
 
-def build_qx_header(
-    *,
-    name: str,
-    display_name: str,
-    priority: int,
-    updated: str,
-    counts: Counter,
-    source_lines: list[str],
-) -> list[str]:
-    header = [
-        f"# NAME: {name}",
-        f"# DISPLAY: {display_name}",
-        "# AUTHOR: phyrevue",
-        "# REPO: https://github.com/phyrevue/rule",
-        f"# PRIORITY: {priority}",
-    ]
-    header.extend(source_lines)
-    header.append(f"# UPDATED: {updated}")
-    for key in [
-        "HOST",
-        "HOST-SUFFIX",
-        "HOST-KEYWORD",
-        "HOST-WILDCARD",
-        "HOST-REGEX",
-        "IP-CIDR",
-        "IP-CIDR6",
-        "IP-ASN",
-        "PROCESS-NAME",
-        "USER-AGENT",
-    ]:
-        if counts.get(key):
-            header.append(f"# {key}: {counts[key]}")
-    header.append(f"# TOTAL: {sum(counts.values())}")
-    return header
-
-
 def write_list(path: Path, header: list[str], rules: list[str]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text("\n".join(header) + "\n" + "\n".join(rules) + "\n")

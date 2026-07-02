@@ -11,6 +11,9 @@
       "priority": 1,
       "policy": "OverseasAI",
       "description": "海外 AI 服务分流规则，直接同步 viewer12/OverseasAI.list，使用时应放在 Google 前面。",
+      "exclude_rules": [
+        "DOMAIN-SUFFIX,google.com"
+      ],
       "source": {
         "type": "overseas_ai",
         "repo": "https://github.com/viewer12/OverseasAI.list",

@@ -93,7 +93,8 @@ def sync_category(root: Path, category: dict, ios_root: Path, ai_root: Path, upd
 
     source_rules = load_source_rules(category, ios_root, ai_root)
     custom_rules = parse_rules(custom_path)
-    rules = sorted_rules([*source_rules, *custom_rules])
+    exclude_rules = set(category.get("exclude_rules", []))
+    rules = sorted_rules(rule for rule in [*source_rules, *custom_rules] if rule not in exclude_rules)
     counts = count_rules(rules)
     source_lines = source_lines_for(category)
     extra_lines = [f"# CUSTOM: rule/Clash/{name}/{name}_Custom.list"]

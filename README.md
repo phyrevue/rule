@@ -32,6 +32,8 @@ https://raw.githubusercontent.com/phyrevue/rule/main/
 | Telegram | `rule/Clash/Telegram/Telegram.list` |
 | Direct | `rule/Clash/Direct/Direct.list` |
 
+`OverseasAI` 会过滤上游里的宽泛规则 `DOMAIN-SUFFIX,google.com`，避免普通 Google 流量被 AI 分类抢先匹配；`gemini.google.com` 等具体 AI 域名仍保留在 `OverseasAI`。
+
 ## Mihomo 示例
 
 ```yaml
@@ -111,6 +113,7 @@ rule
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
 .venv/bin/python scripts/sync_rules.py
+.venv/bin/python scripts/validate_rules.py
 .venv/bin/python scripts/audit_upstream.py
 .venv/bin/python scripts/check_domains.py --category OverseasAI
 ```

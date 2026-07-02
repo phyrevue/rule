@@ -1,8 +1,8 @@
-# NXDOMAIN Report (2026-07-02 14:59:00Z)
+# NXDOMAIN Report (2026-07-02 15:10:12Z)
 
 Categories: OverseasAI
-Checked domains: 574
-OK: 570
+Checked domains: 573
+OK: 569
 NXDOMAIN: 3
 UNKNOWN: 1
 
