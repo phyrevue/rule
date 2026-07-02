@@ -43,7 +43,6 @@ external-ui-url: "https://ghp.ci/https://github.com/MetaCubeX/metacubexd/archive
 
 # 匹配进程 always/strict/off
 find-process-mode: strict
-global-client-fingerprint: chrome
 keep-alive-idle: 600
 keep-alive-interval: 30
 
