@@ -1,10 +1,10 @@
-# NXDOMAIN Report (2026-07-08 05:16:04Z)
+# NXDOMAIN Report (2026-07-09 05:58:48Z)
 
 Categories: OverseasAI
 Checked domains: 573
-OK: 540
+OK: 547
 NXDOMAIN: 3
-UNKNOWN: 30
+UNKNOWN: 23
 
 Threshold: 3 consecutive NXDOMAIN
 
@@ -14,33 +14,26 @@ Threshold: 3 consecutive NXDOMAIN
 - paypal-referral.com
 
 ## Unknowns
-- qpoe.com
 - simility.com
-- venmo.org
+- venmo.info
+- venmo.net
 - venmo.s3.amazonaws.com
 - viggle.ai
 - voice.ai
-- voyageai.com
 - wandb.com
 - warp.dev
-- watsonx.ai
 - weaviate.io
 - webmoneyinfo.com
 - wellsaid.io
 - wellsaidlabs.com
 - windsurf-telemetry.codeium.com
+- windsurf.ai
+- wiremoneytoirelandwithxoomeasierandcheaper.com
 - wordtune.com
 - writer.com
 - writesonic.com
+- www-paypal.info
 - www-paypal.us
 - www.bing.com
-- wwwxoom.com
 - x.ai
 - xn--bnq297cix3a.cn
-- xoom-experience.com
-- xoom.com
-- xoom.net.cn
-- xoom.us
-- xoomcom.com
-- you.com
-- zed.dev
