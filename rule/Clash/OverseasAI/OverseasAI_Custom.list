@@ -2,3 +2,8 @@
 # DISPLAY: 海外AI 自定义补充
 # Add one rule per line, for example:
 # DOMAIN-SUFFIX,example.com
+DOMAIN,aistudio.google.com
+DOMAIN,cloud.google.com
+DOMAIN,gemini.gstatic.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,deepmind.google
