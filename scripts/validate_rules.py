@@ -28,6 +28,10 @@ EXPECTED_DOMAIN_MATCHES = {
     "drive.google.com": "Google",
     "sharepoint.com": "OneDrive",
     "telegram.org": "Telegram",
+    "mcloud.lonxun.com": "Direct",
+    "www.lonxun.cn": "Direct",
+    "www.lonxun.com.cn": "Direct",
+    "modulefiles.pwmat.com": "Direct",
 }
 
 

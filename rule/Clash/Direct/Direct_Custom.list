@@ -2,3 +2,7 @@
 # DISPLAY: 直连 自定义补充
 # Add one rule per line, for example:
 # DOMAIN-SUFFIX,example.com
+DOMAIN-SUFFIX,lonxun.cn
+DOMAIN-SUFFIX,lonxun.com
+DOMAIN-SUFFIX,lonxun.com.cn
+DOMAIN-SUFFIX,pwmat.com
