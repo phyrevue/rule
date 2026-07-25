@@ -1,10 +1,10 @@
-# NXDOMAIN Report (2026-07-24 05:15:24Z)
+# NXDOMAIN Report (2026-07-25 04:59:20Z)
 
 Categories: OverseasAI
 Checked domains: 576
-OK: 542
+OK: 547
 NXDOMAIN: 4
-UNKNOWN: 30
+UNKNOWN: 25
 
 Threshold: 3 consecutive NXDOMAIN
 
@@ -25,22 +25,17 @@ Threshold: 3 consecutive NXDOMAIN
 - wandb.ai
 - wandb.com
 - warp.dev
+- watsonx.ai
 - weaviate.io
 - webmoneyinfo.com
-- wellsaid.io
+- wellsaidlabs.com
 - windsurf.ai
+- wordtune.com
 - writer.com
-- writesonic.com
-- www-paypal.info
 - www-paypal.us
-- www.bing.com
 - wwwxoom.com
 - x.ai
-- xn--bnq297cix3a.cn
 - xoom-experience.com
-- xoom.com
 - xoom.io
 - xoomcom.com
 - you.com
-- zed.dev
-- zenrows.com
