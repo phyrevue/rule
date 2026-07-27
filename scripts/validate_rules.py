@@ -5,7 +5,7 @@ import re
 from collections import Counter
 from pathlib import Path
 
-from common import COUNT_KEYS, load_config, repo_root
+from common import COUNT_KEYS, load_config, repo_root, rule_is_covered
 
 FORBIDDEN_RULES = {
     "OverseasAI": {
@@ -22,11 +22,19 @@ EXPECTED_DOMAIN_MATCHES = {
     "generativelanguage.googleapis.com": "OverseasAI",
     "cloud.google.com": "OverseasAI",
     "deepmind.google": "OverseasAI",
+    "www.bing.com": "OverseasAI",
+    "sydney.bing.com": "OverseasAI",
     "www.google.com": "Google",
     "blogspot.am": "Google",
     "music.youtube.com": "YouTube",
     "drive.google.com": "Google",
     "sharepoint.com": "OneDrive",
+    "sharepoint.cn": "OneDrive",
+    "1drv.ms": "OneDrive",
+    "onedrive.co.uk": "OneDrive",
+    "bing.com": "Microsoft",
+    "cn.bing.com": "Microsoft",
+    "outlook.com": "Microsoft",
     "telegram.org": "Telegram",
     "mcloud.lonxun.com": "Direct",
     "www.lonxun.cn": "Direct",
@@ -128,6 +136,20 @@ def main() -> None:
         print("Exact cross-category overlaps:")
         for (name, other), count in exact_overlaps.items():
             print(f"- {name} / {other}: {count}")
+
+    for category in config["categories"]:
+        name = category["name"]
+        for excluded_name in category.get("exclude_categories", []):
+            excluded_rules = rules_by_category.get(excluded_name, set())
+            covered_rules = sorted(
+                rule for rule in rules_by_category.get(name, set()) if rule_is_covered(rule, excluded_rules)
+            )
+            if covered_rules:
+                sample = ", ".join(covered_rules[:3])
+                errors.append(
+                    f"{name}: {len(covered_rules)} rule(s) covered by excluded category "
+                    f"{excluded_name} (for example: {sample})"
+                )
 
     for domain, expected_category in EXPECTED_DOMAIN_MATCHES.items():
         actual_category = first_domain_match(domain, categories, rules_by_category)

@@ -147,6 +147,11 @@ proxy-groups:
     include-all-providers: true
     proxies: [🚀 节点选择, 🟢 直连]
 
+  - name: 🪟 微软
+    type: select
+    include-all-providers: true
+    proxies: [🚀 节点选择, 🟢 直连]
+
   - name: 📲 Telegram
     type: select
     include-all-providers: true
@@ -168,6 +173,7 @@ rules:
   - RULE-SET,YouTube,📹 YouTube
   - RULE-SET,Google,🍀 Google
   - RULE-SET,OneDrive,🐬 OneDrive
+  - RULE-SET,Microsoft,🪟 微软
   - RULE-SET,Telegram,📲 Telegram
   - RULE-SET,Direct,🎯 全球直连
   - GEOIP,CN,🎯 全球直连,no-resolve
@@ -198,6 +204,10 @@ rule-providers:
     <<: *class
     url: "https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/OneDrive/OneDrive.list"
     path: ./rule-providers/OneDrive.list
+  Microsoft:
+    <<: *class
+    url: "https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/Microsoft/Microsoft.list"
+    path: ./rule-providers/Microsoft.list
   Telegram:
     <<: *class
     url: "https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/Telegram/Telegram.list"

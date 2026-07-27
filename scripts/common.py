@@ -72,6 +72,38 @@ def sorted_rules(rules: Iterable[str]) -> list[str]:
     return sorted(set(rules), key=sort_key)
 
 
+def domain_value_is_covered(rule_type: str, value: str, excluded_type: str, excluded_value: str) -> bool:
+    if excluded_type == "DOMAIN":
+        return rule_type == "DOMAIN" and value == excluded_value
+    if excluded_type == "DOMAIN-SUFFIX":
+        return rule_type in {"DOMAIN", "DOMAIN-SUFFIX"} and (
+            value == excluded_value or value.endswith(f".{excluded_value}")
+        )
+    if excluded_type == "DOMAIN-KEYWORD":
+        return rule_type in {"DOMAIN", "DOMAIN-SUFFIX", "DOMAIN-KEYWORD"} and excluded_value in value
+    return False
+
+
+def rule_is_covered(rule: str, excluded_rules: set[str]) -> bool:
+    if rule in excluded_rules:
+        return True
+
+    parts = rule.split(",", 2)
+    if len(parts) < 2:
+        return False
+    rule_type, value = parts[0], parts[1]
+    if not rule_type.startswith("DOMAIN"):
+        return False
+
+    for excluded_rule in excluded_rules:
+        excluded_parts = excluded_rule.split(",", 2)
+        if len(excluded_parts) < 2:
+            continue
+        if domain_value_is_covered(rule_type, value, excluded_parts[0], excluded_parts[1]):
+            return True
+    return False
+
+
 def count_rules(rules: Iterable[str]) -> Counter:
     return Counter(rule.split(",", 1)[0] for rule in rules)
 

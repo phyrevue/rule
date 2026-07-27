@@ -57,6 +57,19 @@
       }
     },
     {
+      "name": "Microsoft",
+      "display_name": "微软",
+      "priority": 6,
+      "policy": "Microsoft",
+      "description": "除 OneDrive 外的微软服务，包括 Bing、Office、Outlook、Azure、Windows、Xbox 等。请放在 OneDrive 之后、Direct 之前。",
+      "exclude_categories": ["OneDrive"],
+      "source": {
+        "type": "ios_rule_script",
+        "repo": "https://github.com/blackmatrix7/ios_rule_script",
+        "sets": ["Microsoft"]
+      }
+    },
+    {
       "name": "Telegram",
       "display_name": "Telegram",
       "priority": 7,

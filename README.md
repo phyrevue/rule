@@ -10,6 +10,7 @@
 | 2 | YouTube | YouTube / YouTube Music 及相关视频域名 |
 | 3 | Google | Google 通用服务，补充 Drive / FCM / Voice / Search / Earth，放在 OverseasAI 和 YouTube 之后 |
 | 5 | OneDrive | OneDrive 及相关存储服务 |
+| 6 | 微软 | 除 OneDrive 外的微软服务，包括 Bing / Office / Outlook / Azure / Windows / Xbox 等 |
 | 7 | Telegram | Telegram 域名、IP、进程规则，补充 SG / NL / US 细分 IP 段 |
 | 8 | Direct | 直连规则，合并 `Lan + Direct + China + ChinaDNS + ChinaMaxNoIP` |
 
@@ -29,6 +30,7 @@ https://raw.githubusercontent.com/phyrevue/rule/main/
 | YouTube | `rule/Clash/YouTube/YouTube.list` |
 | Google | `rule/Clash/Google/Google.list` |
 | OneDrive | `rule/Clash/OneDrive/OneDrive.list` |
+| 微软 | `rule/Clash/Microsoft/Microsoft.list` |
 | Telegram | `rule/Clash/Telegram/Telegram.list` |
 | Direct | `rule/Clash/Direct/Direct.list` |
 
@@ -68,6 +70,13 @@ rule-providers:
     interval: 86400
     url: https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/OneDrive/OneDrive.list
     path: ./rule-providers/OneDrive.list
+  Microsoft:
+    type: http
+    behavior: classical
+    format: text
+    interval: 86400
+    url: https://raw.githubusercontent.com/phyrevue/rule/main/rule/Clash/Microsoft/Microsoft.list
+    path: ./rule-providers/Microsoft.list
   Telegram:
     type: http
     behavior: classical
@@ -88,11 +97,14 @@ rules:
   - RULE-SET,YouTube,YouTube
   - RULE-SET,Google,Google
   - RULE-SET,OneDrive,OneDrive
+  - RULE-SET,Microsoft,Microsoft
   - RULE-SET,Telegram,Telegram
   - RULE-SET,Direct,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,Proxy
 ```
+
+`Microsoft` 必须放在 `OneDrive` 后、`Direct` 前：OneDrive 相关条目会从微软集合中剔除；Bing 等专项服务则优先于通用直连规则。因此 `cn.bing.com` 虽也存在于上游中国域名列表，按本仓库的服务优先原则会首先命中 `Microsoft`。`www.bing.com`、`sydney.bing.com` 等已有的 Bing AI 端点仍由优先级更高的 `OverseasAI` 接管。
 
 策略组名称可以按你的配置改，比如把 `AI`、`YouTube`、`Google` 全部改成同一个代理组。
 

@@ -11,6 +11,7 @@ from common import (
     load_config,
     parse_rules,
     repo_root,
+    rule_is_covered,
     sorted_rules,
     utc_now,
     write_list,
@@ -93,11 +94,25 @@ def sync_category(root: Path, category: dict, ios_root: Path, ai_root: Path, upd
 
     source_rules = load_source_rules(category, ios_root, ai_root)
     custom_rules = parse_rules(custom_path)
-    exclude_rules = set(category.get("exclude_rules", []))
-    rules = sorted_rules(rule for rule in [*source_rules, *custom_rules] if rule not in exclude_rules)
+    exact_exclude_rules = set(category.get("exclude_rules", []))
+    covered_exclude_rules: set[str] = set()
+    exclude_categories = category.get("exclude_categories", [])
+    for excluded_name in exclude_categories:
+        excluded_path = root / "rule" / "Clash" / excluded_name / f"{excluded_name}.list"
+        if not excluded_path.exists():
+            raise SystemExit(f"Missing excluded category: {excluded_path}")
+        covered_exclude_rules.update(parse_rules(excluded_path))
+
+    rules = sorted_rules(
+        rule
+        for rule in [*source_rules, *custom_rules]
+        if rule not in exact_exclude_rules and not rule_is_covered(rule, covered_exclude_rules)
+    )
     counts = count_rules(rules)
     source_lines = source_lines_for(category)
     extra_lines = [f"# CUSTOM: rule/Clash/{name}/{name}_Custom.list"]
+    if exclude_categories:
+        extra_lines.append(f"# EXCLUDE-CATEGORIES: {', '.join(exclude_categories)}")
 
     header = build_header(
         name=name,
@@ -118,6 +133,11 @@ def main() -> None:
     parser.add_argument("--ios-upstream", help="Path to blackmatrix7/ios_rule_script")
     parser.add_argument("--ai-upstream", help="Path to viewer12/OverseasAI.list")
     parser.add_argument("--workdir", default="/tmp/rule-upstreams")
+    parser.add_argument(
+        "--category",
+        action="append",
+        help="Only sync the named category; may be specified more than once",
+    )
     args = parser.parse_args()
 
     root = repo_root()
@@ -125,7 +145,16 @@ def main() -> None:
     ios_root, ai_root = resolve_upstreams(args)
     updated = utc_now()
 
-    for category in sorted(config["categories"], key=lambda item: item["priority"]):
+    categories = sorted(config["categories"], key=lambda item: item["priority"])
+    if args.category:
+        requested = set(args.category)
+        configured = {category["name"] for category in categories}
+        unknown = sorted(requested - configured)
+        if unknown:
+            raise SystemExit(f"Unknown category: {', '.join(unknown)}")
+        categories = [category for category in categories if category["name"] in requested]
+
+    for category in categories:
         sync_category(root, category, ios_root, ai_root, updated)
 
 
