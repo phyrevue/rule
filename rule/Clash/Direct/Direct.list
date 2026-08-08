@@ -6,14 +6,14 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script (rule/Clash)
 # SOURCE-SETS: Lan, Direct, China, ChinaDNS, ChinaMaxNoIP
 # CUSTOM: rule/Clash/Direct/Direct_Custom.list
-# UPDATED: 2026-08-07 04:21:23Z
+# UPDATED: 2026-08-08 03:17:53Z
 # DOMAIN: 362
-# DOMAIN-SUFFIX: 111433
+# DOMAIN-SUFFIX: 111436
 # DOMAIN-KEYWORD: 50
 # IP-CIDR: 32
 # IP-CIDR6: 8
 # PROCESS-NAME: 49
-# TOTAL: 111934
+# TOTAL: 111937
 DOMAIN,1-fss24-s0.streamhoster.com
 DOMAIN,14033.live.streamtheworld.com
 DOMAIN,156zy.suyunbo.tv
@@ -64007,6 +64007,7 @@ DOMAIN-SUFFIX,madailicai.com
 DOMAIN-SUFFIX,madajiefood.com
 DOMAIN-SUFFIX,madaomall.com
 DOMAIN-SUFFIX,madboxi.com
+DOMAIN-SUFFIX,made-in-china.com
 DOMAIN-SUFFIX,madefuns.com
 DOMAIN-SUFFIX,madeinchinastone.com
 DOMAIN-SUFFIX,madewei.com
@@ -65745,6 +65746,7 @@ DOMAIN-SUFFIX,microwu.com
 DOMAIN-SUFFIX,microxiang.com
 DOMAIN-SUFFIX,microyan.com
 DOMAIN-SUFFIX,microzuji.com
+DOMAIN-SUFFIX,micstatic.com
 DOMAIN-SUFFIX,mictormedical.com
 DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,micun.com
@@ -73413,6 +73415,7 @@ DOMAIN-SUFFIX,powerchinashow.com
 DOMAIN-SUFFIX,powerchinayun.com
 DOMAIN-SUFFIX,powerde.com
 DOMAIN-SUFFIX,powereasy.net
+DOMAIN-SUFFIX,poweremarket.com
 DOMAIN-SUFFIX,powerex1.com
 DOMAIN-SUFFIX,powerflow-tech.com
 DOMAIN-SUFFIX,powerfulchina.com
