@@ -6,7 +6,7 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script (rule/Clash)
 # SOURCE-SETS: Google, GoogleDrive, GoogleFCM, GoogleVoice, GoogleSearch, GoogleEarth
 # CUSTOM: rule/Clash/Google/Google_Custom.list
-# UPDATED: 2026-09-04 06:48:10Z
+# UPDATED: 2026-09-05 06:33:20Z
 # DOMAIN: 18
 # DOMAIN-SUFFIX: 702
 # DOMAIN-KEYWORD: 6
