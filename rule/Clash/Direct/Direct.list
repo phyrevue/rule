@@ -6,14 +6,14 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script (rule/Clash)
 # SOURCE-SETS: Lan, Direct, China, ChinaDNS, ChinaMaxNoIP
 # CUSTOM: rule/Clash/Direct/Direct_Custom.list
-# UPDATED: 2026-09-07 06:51:19Z
-# DOMAIN: 333
-# DOMAIN-SUFFIX: 111145
+# UPDATED: 2026-09-07 09:32:52Z
+# DOMAIN: 334
+# DOMAIN-SUFFIX: 111146
 # DOMAIN-KEYWORD: 50
 # IP-CIDR: 32
 # IP-CIDR6: 8
 # PROCESS-NAME: 49
-# TOTAL: 111617
+# TOTAL: 111619
 DOMAIN,1-fss24-s0.streamhoster.com
 DOMAIN,14033.live.streamtheworld.com
 DOMAIN,156zy.suyunbo.tv
@@ -296,6 +296,7 @@ DOMAIN,stream1.shopch.jp
 DOMAIN,stream2.cprnetwork.org
 DOMAIN,streamipcf.akamaized.net
 DOMAIN,sycm.mmstat.com
+DOMAIN,t.tuu.im
 DOMAIN,tiao.cjkypo.com
 DOMAIN,time.apple.com
 DOMAIN,time.xtracloud.net
@@ -72395,6 +72396,7 @@ DOMAIN-SUFFIX,phqjsw.com
 DOMAIN-SUFFIX,phsb.com
 DOMAIN-SUFFIX,physicalclub.com
 DOMAIN-SUFFIX,physike.com
+DOMAIN-SUFFIX,phyrevue.com
 DOMAIN-SUFFIX,physoe.com
 DOMAIN-SUFFIX,phyuan.com
 DOMAIN-SUFFIX,phyy.com
