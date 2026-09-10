@@ -1,10 +1,10 @@
-# NXDOMAIN Report (2026-09-09 06:56:31Z)
+# NXDOMAIN Report (2026-09-10 06:53:03Z)
 
 Categories: OverseasAI
 Checked domains: 576
-OK: 546
+OK: 545
 NXDOMAIN: 4
-UNKNOWN: 26
+UNKNOWN: 27
 
 Threshold: 3 consecutive NXDOMAIN
 
@@ -16,28 +16,29 @@ Threshold: 3 consecutive NXDOMAIN
 
 ## Unknowns
 - simility.com
+- turn.livekit.cloud
+- v0.app
+- v0.dev
+- vast.ai
+- venmo-touch.com
+- venmo.com
 - venmo.info
+- venmo.net
 - venmo.org
+- venmo.s3.amazonaws.com
 - viggle.ai
 - voice.ai
-- voyageai.com
-- wandb.ai
 - wandb.com
 - warp.dev
 - watsonx.ai
 - weaviate.io
-- webmoneyinfo.com
-- wellsaid.io
 - wellsaidlabs.com
+- windsurf-telemetry.codeium.com
 - windsurf.ai
-- wordtune.com
-- www.bing.com
+- wiremoneytoirelandwithxoomeasierandcheaper.com
+- writesonic.com
+- www-paypal.info
+- www-paypal.us
 - wwwxoom.com
-- x.ai
-- xoom-experience.com
+- xn--bnq297cix3a.cn
 - xoom.com
-- xoom.io
-- xoom.us
-- you.com
-- zed.dev
-- zenrows.com
