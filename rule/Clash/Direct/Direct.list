@@ -6,14 +6,14 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script (rule/Clash)
 # SOURCE-SETS: Lan, Direct, China, ChinaDNS, ChinaMaxNoIP
 # CUSTOM: rule/Clash/Direct/Direct_Custom.list
-# UPDATED: 2026-09-13 07:01:47Z
+# UPDATED: 2026-09-14 07:24:44Z
 # DOMAIN: 334
-# DOMAIN-SUFFIX: 111164
+# DOMAIN-SUFFIX: 111163
 # DOMAIN-KEYWORD: 50
 # IP-CIDR: 32
 # IP-CIDR6: 8
 # PROCESS-NAME: 49
-# TOTAL: 111637
+# TOTAL: 111636
 DOMAIN,1-fss24-s0.streamhoster.com
 DOMAIN,14033.live.streamtheworld.com
 DOMAIN,156zy.suyunbo.tv
@@ -84217,7 +84217,6 @@ DOMAIN-SUFFIX,spsb114.com
 DOMAIN-SUFFIX,spsicloudport.com
 DOMAIN-SUFFIX,spsisctgroup.com
 DOMAIN-SUFFIX,spsisncl.com
-DOMAIN-SUFFIX,spst2.com
 DOMAIN-SUFFIX,spsy.org
 DOMAIN-SUFFIX,sptcc.com
 DOMAIN-SUFFIX,sptccn.com
