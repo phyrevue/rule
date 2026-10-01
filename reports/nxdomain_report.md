@@ -1,42 +1,42 @@
-# NXDOMAIN Report (2026-09-30 07:46:50Z)
+# NXDOMAIN Report (2026-10-01 08:06:03Z)
 
 Categories: OverseasAI
-Checked domains: 576
-OK: 547
-NXDOMAIN: 4
-UNKNOWN: 25
+Checked domains: 603
+OK: 574
+NXDOMAIN: 3
+UNKNOWN: 26
 
 Threshold: 3 consecutive NXDOMAIN
 
 ## Candidates
 - gateway.bingviz.microsoft.net
-- kilocode.app
 - paypal-referral.com
 - paypal.info
 
 ## Unknowns
 - simility.com
+- sweep.dev
+- swiftbank.info
+- swiftcapital.com
+- swiftfinancial.com
+- swiftfinancial.info
+- swiftfinancial.net
+- sydney.bing.com
+- tabbyml.com
+- tavily.com
+- telemetry.aws-language-servers.us-east-1.amazonaws.com
+- thepaypalshop.com
+- theshoppingexpresslane.net
+- thinkingmachines.ai
+- tldv.io
+- together.ai
+- together.xyz
+- topazlabs.com
+- turbopuffer.com
+- turn.livekit.cloud
+- udio.com
+- v0.app
+- v0.dev
+- vast.ai
+- venmo-touch.com
 - venmo.info
-- venmo.s3.amazonaws.com
-- viggle.ai
-- voyageai.com
-- wandb.ai
-- watsonx.ai
-- weaviate.io
-- wellsaid.io
-- wellsaidlabs.com
-- windsurf.ai
-- wiremoneytoirelandwithxoomeasierandcheaper.com
-- wordtune.com
-- writer.com
-- writesonic.com
-- www-paypal.info
-- www-paypal.us
-- www.bing.com
-- wwwxoom.com
-- x.ai
-- xn--bnq297cix3a.cn
-- xoom-experience.com
-- xoom.com
-- xoom.io
-- xoom.net.cn
