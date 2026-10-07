@@ -1,10 +1,10 @@
-# NXDOMAIN Report (2026-10-06 08:23:29Z)
+# NXDOMAIN Report (2026-10-07 07:59:50Z)
 
 Categories: OverseasAI
 Checked domains: 603
-OK: 576
-NXDOMAIN: 2
-UNKNOWN: 25
+OK: 550
+NXDOMAIN: 3
+UNKNOWN: 50
 
 Threshold: 3 consecutive NXDOMAIN
 
@@ -14,28 +14,53 @@ Threshold: 3 consecutive NXDOMAIN
 - paypal.info
 
 ## Unknowns
-- paypal.info
+- qpoe.com
 - simility.com
-- sweep.dev
-- swiftbank.info
+- swiftfinancial.com
 - swiftfinancial.net
 - sydney.bing.com
-- synthesia.io
 - tabbyml.com
 - tabnine.com
-- tavily.com
 - telemetry.aws-language-servers.us-east-1.amazonaws.com
-- theshoppingexpresslane.net
 - thinkingmachines.ai
+- tldv.io
+- together.ai
 - together.xyz
 - topazlabs.com
 - trychroma.com
 - turbopuffer.com
 - turn.livekit.cloud
+- udio.com
 - v0.app
 - v0.dev
-- vast.ai
 - venmo-touch.com
+- venmo.com
 - venmo.info
-- venmo.net
+- venmo.org
 - venmo.s3.amazonaws.com
+- viggle.ai
+- voice.ai
+- voyageai.com
+- wandb.ai
+- warp.dev
+- watsonx.ai
+- weaviate.io
+- webmoneyinfo.com
+- wellsaid.io
+- wellsaidlabs.com
+- windsurf-telemetry.codeium.com
+- windsurf.ai
+- windsurf.com
+- wordtune.com
+- writer.com
+- writesonic.com
+- www-paypal.us
+- www.bing.com
+- wwwxoom.com
+- x.ai
+- xn--bnq297cix3a.cn
+- xoom-experience.com
+- xoom.io
+- xoom.us
+- you.com
+- zenrows.com
