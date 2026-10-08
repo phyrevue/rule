@@ -6,7 +6,7 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script (rule/Clash)
 # SOURCE-SETS: Lan, Direct, China, ChinaDNS, ChinaMaxNoIP
 # CUSTOM: rule/Clash/Direct/Direct_Custom.list
-# UPDATED: 2026-10-07 07:59:20Z
+# UPDATED: 2026-10-08 08:13:43Z
 # DOMAIN: 334
 # DOMAIN-SUFFIX: 111366
 # DOMAIN-KEYWORD: 50
