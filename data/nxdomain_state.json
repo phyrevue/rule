@@ -1,3017 +1,2397 @@
 {
   "abacus.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571403Z",
+    "last_checked": "2026-10-09T08:14:46.538904Z",
     "last_status": "OK"
   },
-  "account-paypal.info": {
+  "agentclientprotocol.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571425Z",
-    "last_status": "OK"
-  },
-  "account-paypal.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571429Z",
-    "last_status": "OK"
-  },
-  "account-paypal.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571431Z",
-    "last_status": "OK"
-  },
-  "accountpaypal.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571434Z",
-    "last_status": "OK"
-  },
-  "accountpaypal.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571436Z",
-    "last_status": "OK"
-  },
-  "accountpaypal.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571438Z",
+    "last_checked": "2026-10-09T08:14:46.538923Z",
     "last_status": "OK"
   },
   "ai-gateway.vercel.sh": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571439Z",
+    "last_checked": "2026-10-09T08:14:46.538928Z",
     "last_status": "OK"
   },
   "ai.azure.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571441Z",
+    "last_checked": "2026-10-09T08:14:46.538931Z",
     "last_status": "OK"
   },
   "ai.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571443Z",
+    "last_checked": "2026-10-09T08:14:46.538934Z",
     "last_status": "OK"
   },
   "ai.google.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571447Z",
+    "last_checked": "2026-10-09T08:14:46.538936Z",
+    "last_status": "OK"
+  },
+  "ai.studio": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.538939Z",
     "last_status": "OK"
   },
   "ai21.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571450Z",
+    "last_checked": "2026-10-09T08:14:46.538941Z",
     "last_status": "OK"
   },
   "ai21labs.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571453Z",
+    "last_checked": "2026-10-09T08:14:46.538944Z",
+    "last_status": "OK"
+  },
+  "aicode.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.538946Z",
+    "last_status": "OK"
+  },
+  "aida.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.538948Z",
     "last_status": "OK"
   },
   "aiplatform.googleapis.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571455Z",
+    "last_checked": "2026-10-09T08:14:46.538951Z",
+    "last_status": "OK"
+  },
+  "aisandbox-pa.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.538953Z",
     "last_status": "OK"
   },
   "aistudio.google.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571457Z",
+    "last_checked": "2026-10-09T08:14:46.538955Z",
     "last_status": "OK"
   },
   "aleph-alpha.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571459Z",
+    "last_checked": "2026-10-09T08:14:46.538957Z",
     "last_status": "OK"
   },
   "algolia.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571461Z",
+    "last_checked": "2026-10-09T08:14:46.538960Z",
+    "last_status": "OK"
+  },
+  "alkalicore-pa.clients6.google.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.538962Z",
     "last_status": "OK"
   },
   "alkalimakersuite-pa.clients6.google.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571463Z",
+    "last_checked": "2026-10-09T08:14:46.538964Z",
     "last_status": "OK"
   },
   "allenai.org": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571464Z",
+    "last_checked": "2026-10-09T08:14:46.538966Z",
     "last_status": "OK"
   },
   "ampcode.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571466Z",
+    "last_checked": "2026-10-09T08:14:46.538969Z",
     "last_status": "OK"
   },
   "ampcode.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571467Z",
-    "last_status": "OK"
-  },
-  "anfutong.cn": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571469Z",
-    "last_status": "OK"
-  },
-  "anfutong.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571471Z",
-    "last_status": "OK"
-  },
-  "anfutong.com.cn": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571473Z",
+    "last_checked": "2026-10-09T08:14:46.538971Z",
     "last_status": "OK"
   },
   "anthropic.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571475Z",
+    "last_checked": "2026-10-09T08:14:46.538973Z",
+    "last_status": "OK"
+  },
+  "antigravity-pa.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.538975Z",
+    "last_status": "OK"
+  },
+  "antigravity-unleash.goog": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.538978Z",
     "last_status": "OK"
   },
   "antigravity.google": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571476Z",
+    "last_checked": "2026-10-09T08:14:46.538980Z",
+    "last_status": "OK"
+  },
+  "antigravity.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.538982Z",
     "last_status": "OK"
   },
   "anyscale.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571477Z",
+    "last_checked": "2026-10-09T08:14:46.538985Z",
+    "last_status": "OK"
+  },
+  "anythingllm.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.538987Z",
     "last_status": "OK"
   },
   "api.cloudflare.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571479Z",
+    "last_checked": "2026-10-09T08:14:46.538989Z",
     "last_status": "OK"
   },
   "api.githubcopilot.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571480Z",
+    "last_checked": "2026-10-09T08:14:46.538991Z",
     "last_status": "OK"
   },
   "api.jetbrains.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571482Z",
+    "last_checked": "2026-10-09T08:14:46.538994Z",
     "last_status": "OK"
   },
   "api.microsoftapp.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571483Z",
+    "last_checked": "2026-10-09T08:14:46.538996Z",
     "last_status": "OK"
   },
   "api.msn.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571485Z",
+    "last_checked": "2026-10-09T08:14:46.538998Z",
     "last_status": "OK"
   },
   "api.ngc.nvidia.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571486Z",
+    "last_checked": "2026-10-09T08:14:46.539000Z",
     "last_status": "OK"
   },
   "api.nvidia.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571487Z",
+    "last_checked": "2026-10-09T08:14:46.539002Z",
     "last_status": "OK"
   },
   "api.statsig.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571489Z",
+    "last_checked": "2026-10-09T08:14:46.539004Z",
     "last_status": "OK"
   },
   "apify.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571490Z",
+    "last_checked": "2026-10-09T08:14:46.539006Z",
     "last_status": "OK"
   },
   "apis.google.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571492Z",
+    "last_checked": "2026-10-09T08:14:46.539008Z",
+    "last_status": "OK"
+  },
+  "arena.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539014Z",
     "last_status": "OK"
   },
   "arize.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571493Z",
+    "last_checked": "2026-10-09T08:14:46.539016Z",
     "last_status": "OK"
   },
   "artbreeder.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571494Z",
+    "last_checked": "2026-10-09T08:14:46.539018Z",
     "last_status": "OK"
   },
   "assemblyai.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571496Z",
+    "last_checked": "2026-10-09T08:14:46.539020Z",
     "last_status": "OK"
   },
   "assets.msn.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571497Z",
+    "last_checked": "2026-10-09T08:14:46.539022Z",
     "last_status": "OK"
   },
   "augment.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571499Z",
+    "last_checked": "2026-10-09T08:14:46.539028Z",
     "last_status": "OK"
   },
   "augmentcode.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571500Z",
+    "last_checked": "2026-10-09T08:14:46.539030Z",
     "last_status": "OK"
   },
   "auth.grazie.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571505Z",
+    "last_checked": "2026-10-09T08:14:46.539032Z",
+    "last_status": "OK"
+  },
+  "auth.meta.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539034Z",
     "last_status": "OK"
   },
   "auth0.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571507Z",
+    "last_checked": "2026-10-09T08:14:46.539036Z",
     "last_status": "OK"
   },
   "aws-language-servers.us-east-1.amazonaws.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571508Z",
+    "last_checked": "2026-10-09T08:14:46.539038Z",
     "last_status": "OK"
   },
   "aws-toolkit-language-servers.amazonaws.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571510Z",
+    "last_checked": "2026-10-09T08:14:46.539040Z",
+    "last_status": "OK"
+  },
+  "awswaf.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539043Z",
     "last_status": "OK"
   },
   "azuredatabricks.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571511Z",
+    "last_checked": "2026-10-09T08:14:46.539045Z",
     "last_status": "OK"
   },
   "bard.google.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571513Z",
+    "last_checked": "2026-10-09T08:14:46.539047Z",
     "last_status": "OK"
   },
   "bardeen.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571515Z",
+    "last_checked": "2026-10-09T08:14:46.539049Z",
     "last_status": "OK"
   },
   "base44.app": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571516Z",
+    "last_checked": "2026-10-09T08:14:46.539051Z",
     "last_status": "OK"
   },
   "base44.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571518Z",
+    "last_checked": "2026-10-09T08:14:46.539054Z",
     "last_status": "OK"
   },
   "baseten.co": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571520Z",
+    "last_checked": "2026-10-09T08:14:46.539056Z",
     "last_status": "OK"
   },
   "beautiful.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571522Z",
-    "last_status": "OK"
-  },
-  "beibao.cn": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571525Z",
-    "last_status": "OK"
-  },
-  "beibao.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571528Z",
-    "last_status": "OK"
-  },
-  "beibao.com.cn": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571530Z",
+    "last_checked": "2026-10-09T08:14:46.539058Z",
     "last_status": "OK"
   },
   "bfl.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571533Z",
-    "last_status": "OK"
-  },
-  "bill-safe.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571535Z",
-    "last_status": "OK"
-  },
-  "billmelater.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571537Z",
-    "last_status": "OK"
-  },
-  "billmelater.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571539Z",
-    "last_status": "OK"
-  },
-  "billmelater.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571540Z",
+    "last_checked": "2026-10-09T08:14:46.539060Z",
     "last_status": "OK"
   },
   "bing-shopping.microsoft-falcon.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571542Z",
+    "last_checked": "2026-10-09T08:14:46.539062Z",
     "last_status": "OK"
   },
   "blackforestlabs.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571544Z",
-    "last_status": "OK"
-  },
-  "bml.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571545Z",
+    "last_checked": "2026-10-09T08:14:46.539064Z",
     "last_status": "OK"
   },
   "bolt.new": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571546Z",
+    "last_checked": "2026-10-09T08:14:46.539067Z",
+    "last_status": "OK"
+  },
+  "braintree-api.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539069Z",
     "last_status": "OK"
   },
   "braintreegateway.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571548Z",
-    "last_status": "OK"
-  },
-  "braintreegateway.tv": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571549Z",
+    "last_checked": "2026-10-09T08:14:46.539071Z",
     "last_status": "OK"
   },
   "braintreepayments.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571551Z",
-    "last_status": "OK"
-  },
-  "braintreepayments.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571552Z",
-    "last_status": "OK"
-  },
-  "braintreepayments.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571554Z",
-    "last_status": "OK"
-  },
-  "braintreepayments.tv": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571555Z",
-    "last_status": "OK"
-  },
-  "braintreepaymentsolutions.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571557Z",
-    "last_status": "OK"
-  },
-  "braintreeps.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571558Z",
+    "last_checked": "2026-10-09T08:14:46.539073Z",
     "last_status": "OK"
   },
   "braintrust.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571560Z",
-    "last_status": "OK"
-  },
-  "briantreepayments.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571561Z",
-    "last_status": "OK"
-  },
-  "briantreepayments.tv": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571562Z",
+    "last_checked": "2026-10-09T08:14:46.539076Z",
     "last_status": "OK"
   },
   "brightdata.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571563Z",
+    "last_checked": "2026-10-09T08:14:46.539078Z",
     "last_status": "OK"
   },
   "browser-intake-datadoghq.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571565Z",
+    "last_checked": "2026-10-09T08:14:46.539080Z",
     "last_status": "OK"
   },
   "browserbase.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571566Z",
+    "last_checked": "2026-10-09T08:14:46.539082Z",
     "last_status": "OK"
   },
   "browserless.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571568Z",
+    "last_checked": "2026-10-09T08:14:46.539084Z",
     "last_status": "OK"
   },
   "build.nvidia.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571569Z",
+    "last_checked": "2026-10-09T08:14:46.539087Z",
     "last_status": "OK"
   },
   "business.gemini.google": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571571Z",
-    "last_status": "OK"
-  },
-  "buyfast-paysmart.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571573Z",
+    "last_checked": "2026-10-09T08:14:46.539089Z",
     "last_status": "OK"
   },
   "captions.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571574Z",
-    "last_status": "OK"
-  },
-  "card.io": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571575Z",
+    "last_checked": "2026-10-09T08:14:46.539091Z",
     "last_status": "OK"
   },
   "cartesia.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571579Z",
-    "last_status": "OK"
-  },
-  "cash2.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571580Z",
-    "last_status": "OK"
-  },
-  "cashify.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571581Z",
-    "last_status": "OK"
-  },
-  "cashify.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571583Z",
+    "last_checked": "2026-10-09T08:14:46.539093Z",
     "last_status": "OK"
   },
   "cdn.usefathom.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571585Z",
+    "last_checked": "2026-10-09T08:14:46.539095Z",
     "last_status": "OK"
   },
   "cerebras.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571586Z",
+    "last_checked": "2026-10-09T08:14:46.539097Z",
     "last_status": "OK"
   },
   "challenges.cloudflare.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571587Z",
+    "last_checked": "2026-10-09T08:14:46.539099Z",
     "last_status": "OK"
   },
   "character.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571589Z",
+    "last_checked": "2026-10-09T08:14:46.539102Z",
+    "last_status": "OK"
+  },
+  "characterai.io": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539103Z",
     "last_status": "OK"
   },
   "chargebee.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571590Z",
+    "last_checked": "2026-10-09T08:14:46.539105Z",
     "last_status": "OK"
   },
   "chat.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571591Z",
+    "last_checked": "2026-10-09T08:14:46.539108Z",
     "last_status": "OK"
   },
   "chat.openai.com.cdn.cloudflare.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571593Z",
+    "last_checked": "2026-10-09T08:14:46.539110Z",
     "last_status": "OK"
   },
   "chatgpt.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571594Z",
+    "last_checked": "2026-10-09T08:14:46.539112Z",
     "last_status": "OK"
   },
   "chatgpt.livekit.cloud": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571596Z",
+    "last_checked": "2026-10-09T08:14:46.539113Z",
+    "last_status": "OK"
+  },
+  "chatgpt.site": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539115Z",
     "last_status": "OK"
   },
   "checkout.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571597Z",
+    "last_checked": "2026-10-09T08:14:46.539118Z",
+    "last_status": "OK"
+  },
+  "chutes.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539121Z",
+    "last_status": "OK"
+  },
+  "cici.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539123Z",
+    "last_status": "OK"
+  },
+  "ciciai.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539125Z",
+    "last_status": "OK"
+  },
+  "ciciaicdn.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539127Z",
     "last_status": "OK"
   },
   "civitai.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571598Z",
+    "last_checked": "2026-10-09T08:14:46.539129Z",
     "last_status": "OK"
   },
   "clau.de": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571600Z",
+    "last_checked": "2026-10-09T08:14:46.539131Z",
     "last_status": "OK"
   },
   "claude.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571603Z",
+    "last_checked": "2026-10-09T08:14:46.539133Z",
     "last_status": "OK"
   },
   "claude.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571605Z",
+    "last_checked": "2026-10-09T08:14:46.539135Z",
+    "last_status": "OK"
+  },
+  "claude.dev": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539137Z",
     "last_status": "OK"
   },
   "claude.site": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571608Z",
+    "last_checked": "2026-10-09T08:14:46.539138Z",
     "last_status": "OK"
   },
   "claudemcpclient.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571610Z",
+    "last_checked": "2026-10-09T08:14:46.539141Z",
     "last_status": "OK"
   },
   "claudemcpcontent.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571612Z",
+    "last_checked": "2026-10-09T08:14:46.539142Z",
     "last_status": "OK"
   },
   "claudeusercontent.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571614Z",
+    "last_checked": "2026-10-09T08:14:46.539144Z",
     "last_status": "OK"
   },
   "clawhub.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571616Z",
+    "last_checked": "2026-10-09T08:14:46.539146Z",
+    "last_status": "OK"
+  },
+  "clerk.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539148Z",
     "last_status": "OK"
   },
   "client-api.arkoselabs.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571618Z",
+    "last_checked": "2026-10-09T08:14:46.539154Z",
     "last_status": "OK"
   },
   "client-telemetry.us-east-1.amazonaws.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571619Z",
+    "last_checked": "2026-10-09T08:14:46.539157Z",
     "last_status": "OK"
   },
   "cline.bot": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571621Z",
+    "last_checked": "2026-10-09T08:14:46.539159Z",
     "last_status": "OK"
   },
   "clipdrop.co": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571623Z",
+    "last_checked": "2026-10-09T08:14:46.539161Z",
     "last_status": "OK"
   },
   "cloud.databricks.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571624Z",
+    "last_checked": "2026-10-09T08:14:46.539163Z",
     "last_status": "OK"
   },
   "cloud.google.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571626Z",
+    "last_checked": "2026-10-09T08:14:46.539165Z",
+    "last_status": "OK"
+  },
+  "cloudaicompanion.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539167Z",
     "last_status": "OK"
   },
   "cloudcode-pa.googleapis.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571627Z",
+    "last_checked": "2026-10-09T08:14:46.539169Z",
     "last_status": "OK"
   },
   "codeium.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571628Z",
+    "last_checked": "2026-10-09T08:14:46.539172Z",
+    "last_status": "OK"
+  },
+  "codeiumdata.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539174Z",
     "last_status": "OK"
   },
   "coderabbit.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571630Z",
+    "last_checked": "2026-10-09T08:14:46.539176Z",
+    "last_status": "OK"
+  },
+  "coderabbit.gallery.vsassets.io": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539178Z",
     "last_status": "OK"
   },
   "codewhisperer.us-east-1.amazonaws.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571631Z",
+    "last_checked": "2026-10-09T08:14:46.539180Z",
     "last_status": "OK"
   },
   "cognition.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571632Z",
+    "last_checked": "2026-10-09T08:14:46.539182Z",
     "last_status": "OK"
   },
   "cohere.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571633Z",
+    "last_checked": "2026-10-09T08:14:46.539184Z",
     "last_status": "OK"
   },
   "cohere.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571635Z",
+    "last_checked": "2026-10-09T08:14:46.539186Z",
     "last_status": "OK"
   },
   "colossyan.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571636Z",
+    "last_checked": "2026-10-09T08:14:46.539188Z",
+    "last_status": "OK"
+  },
+  "comfy.org": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539190Z",
+    "last_status": "OK"
+  },
+  "comfyci.org": {
+    "count": 1,
+    "last_checked": "2026-10-09T08:14:46.539192Z",
+    "last_status": "NXDOMAIN"
+  },
+  "comfyregistry.org": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539195Z",
+    "last_status": "UNKNOWN"
+  },
+  "composio.dev": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539198Z",
+    "last_status": "OK"
+  },
+  "content-firebaseappcheck.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539200Z",
     "last_status": "OK"
   },
   "context7.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571637Z",
+    "last_checked": "2026-10-09T08:14:46.539202Z",
     "last_status": "OK"
   },
   "continue.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571639Z",
+    "last_checked": "2026-10-09T08:14:46.539204Z",
+    "last_status": "OK"
+  },
+  "copilot-proxy.githubusercontent.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539206Z",
+    "last_status": "OK"
+  },
+  "copilot-stg.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539208Z",
+    "last_status": "OK"
+  },
+  "copilot-telemetry-service.githubusercontent.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539210Z",
+    "last_status": "OK"
+  },
+  "copilot-telemetry.githubusercontent.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539212Z",
+    "last_status": "OK"
+  },
+  "copilot-workspace.githubnext.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539214Z",
+    "last_status": "OK"
+  },
+  "copilot.cloud.microsoft": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539216Z",
+    "last_status": "OK"
+  },
+  "copilot.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539218Z",
     "last_status": "OK"
   },
   "copilot.microsoft.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571640Z",
+    "last_checked": "2026-10-09T08:14:46.539222Z",
+    "last_status": "OK"
+  },
+  "copilotprodattachments.blob.core.windows.net": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539224Z",
     "last_status": "OK"
   },
   "copy.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571642Z",
+    "last_checked": "2026-10-09T08:14:46.539227Z",
     "last_status": "OK"
   },
   "coreweave.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571643Z",
+    "last_checked": "2026-10-09T08:14:46.539229Z",
     "last_status": "OK"
   },
   "cosine.sh": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571644Z",
+    "last_checked": "2026-10-09T08:14:46.539231Z",
+    "last_status": "OK"
+  },
+  "coze.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539233Z",
+    "last_status": "OK"
+  },
+  "crewai.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539235Z",
     "last_status": "OK"
   },
   "crixet.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571646Z",
+    "last_checked": "2026-10-09T08:14:46.539237Z",
     "last_status": "OK"
   },
   "crusoe.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571647Z",
+    "last_checked": "2026-10-09T08:14:46.539239Z",
+    "last_status": "OK"
+  },
+  "cue.im": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539241Z",
     "last_status": "OK"
   },
   "cursor-cdn.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571649Z",
+    "last_checked": "2026-10-09T08:14:46.539243Z",
     "last_status": "OK"
   },
   "cursor.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571650Z",
+    "last_checked": "2026-10-09T08:14:46.539245Z",
     "last_status": "OK"
   },
   "cursor.sh": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571651Z",
+    "last_checked": "2026-10-09T08:14:46.539247Z",
     "last_status": "OK"
   },
   "cursorapi.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571652Z",
+    "last_checked": "2026-10-09T08:14:46.539249Z",
     "last_status": "OK"
   },
   "cursorvm.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571653Z",
+    "last_checked": "2026-10-09T08:14:46.539251Z",
     "last_status": "OK"
   },
   "d-id.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571654Z",
+    "last_checked": "2026-10-09T08:14:46.539253Z",
     "last_status": "OK"
   },
   "daily-cloudcode-pa.googleapis.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571656Z",
+    "last_checked": "2026-10-09T08:14:46.539255Z",
     "last_status": "OK"
   },
   "deepgram.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571657Z",
+    "last_checked": "2026-10-09T08:14:46.539257Z",
     "last_status": "OK"
   },
   "deepinfra.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571658Z",
+    "last_checked": "2026-10-09T08:14:46.539259Z",
     "last_status": "OK"
   },
   "deepmind.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571660Z",
+    "last_checked": "2026-10-09T08:14:46.539261Z",
     "last_status": "OK"
   },
   "deepmind.google": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571661Z",
+    "last_checked": "2026-10-09T08:14:46.539263Z",
+    "last_status": "OK"
+  },
+  "deepwiki.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539266Z",
+    "last_status": "OK"
+  },
+  "deepwiki.org": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539268Z",
     "last_status": "OK"
   },
   "descript.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571662Z",
+    "last_checked": "2026-10-09T08:14:46.539269Z",
     "last_status": "OK"
   },
   "desktop-release.codewhisperer.us-east-1.amazonaws.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571664Z",
+    "last_checked": "2026-10-09T08:14:46.539272Z",
     "last_status": "OK"
   },
   "devin.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571665Z",
-    "last_status": "OK"
-  },
-  "devtools-paypal.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571670Z",
+    "last_checked": "2026-10-09T08:14:46.539274Z",
     "last_status": "OK"
   },
   "diabrowser.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571672Z",
+    "last_checked": "2026-10-09T08:14:46.539276Z",
     "last_status": "OK"
   },
   "diabrowser.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571674Z",
+    "last_checked": "2026-10-09T08:14:46.539278Z",
+    "last_status": "OK"
+  },
+  "diabrowser.engineering": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539280Z",
     "last_status": "OK"
   },
   "diffbot.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571675Z",
+    "last_checked": "2026-10-09T08:14:46.539282Z",
+    "last_status": "OK"
+  },
+  "dify.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539284Z",
+    "last_status": "OK"
+  },
+  "dola.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539286Z",
+    "last_status": "OK"
+  },
+  "dreamgen.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539290Z",
     "last_status": "OK"
   },
   "dreamstudio.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571677Z",
+    "last_checked": "2026-10-09T08:14:46.539292Z",
+    "last_status": "OK"
+  },
+  "duck.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539294Z",
     "last_status": "OK"
   },
   "dust.tt": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571678Z",
+    "last_checked": "2026-10-09T08:14:46.539296Z",
     "last_status": "OK"
   },
   "edgeservices.bing.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571680Z",
+    "last_checked": "2026-10-09T08:14:46.539298Z",
+    "last_status": "OK"
+  },
+  "eigent.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539300Z",
     "last_status": "OK"
   },
   "elevenlabs.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571683Z",
+    "last_checked": "2026-10-09T08:14:46.539302Z",
     "last_status": "OK"
   },
   "elevenlabs.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571685Z",
+    "last_checked": "2026-10-09T08:14:46.539305Z",
     "last_status": "OK"
   },
   "events.statsigapi.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571688Z",
+    "last_checked": "2026-10-09T08:14:46.539308Z",
     "last_status": "OK"
   },
   "exa.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571690Z",
-    "last_status": "OK"
-  },
-  "experiencebillmelater.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571692Z",
+    "last_checked": "2026-10-09T08:14:46.539310Z",
     "last_status": "OK"
   },
   "factory.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571694Z",
+    "last_checked": "2026-10-09T08:14:46.539312Z",
     "last_status": "OK"
   },
   "fal.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571695Z",
+    "last_checked": "2026-10-09T08:14:46.539314Z",
     "last_status": "OK"
   },
   "fastspring.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571697Z",
+    "last_checked": "2026-10-09T08:14:46.539316Z",
     "last_status": "OK"
   },
   "fathom.video": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571698Z",
+    "last_checked": "2026-10-09T08:14:46.539317Z",
     "last_status": "OK"
   },
   "featureassets.org": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571699Z",
+    "last_checked": "2026-10-09T08:14:46.539319Z",
     "last_status": "OK"
   },
   "featuregates.org": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571701Z",
+    "last_checked": "2026-10-09T08:14:46.539321Z",
     "last_status": "OK"
   },
-  "filipino-music.net": {
+  "firebaseappcheck.googleapis.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571703Z",
+    "last_checked": "2026-10-09T08:14:46.539323Z",
     "last_status": "OK"
   },
   "firecrawl.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571704Z",
+    "last_checked": "2026-10-09T08:14:46.539325Z",
     "last_status": "OK"
   },
   "fireflies.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571705Z",
+    "last_checked": "2026-10-09T08:14:46.539327Z",
     "last_status": "OK"
   },
   "fireworks.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571707Z",
+    "last_checked": "2026-10-09T08:14:46.539329Z",
     "last_status": "OK"
   },
   "fliki.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571708Z",
+    "last_checked": "2026-10-09T08:14:46.539331Z",
     "last_status": "OK"
   },
-  "fundpaypal.com": {
+  "flow.google": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571709Z",
+    "last_checked": "2026-10-09T08:14:46.539333Z",
+    "last_status": "OK"
+  },
+  "flow.google.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539335Z",
     "last_status": "OK"
   },
   "gamma.app": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571710Z",
+    "last_checked": "2026-10-09T08:14:46.539337Z",
     "last_status": "OK"
   },
   "gateway.ai.cloudflare.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571712Z",
+    "last_checked": "2026-10-09T08:14:46.539339Z",
     "last_status": "OK"
   },
   "gateway.bingviz.microsoft.net": {
-    "count": 100,
-    "last_checked": "2026-10-08T08:14:01.571714Z",
+    "count": 101,
+    "last_checked": "2026-10-09T08:14:46.539341Z",
     "last_status": "NXDOMAIN"
   },
   "gateway.bingviz.microsoftapp.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571717Z",
+    "last_checked": "2026-10-09T08:14:46.539343Z",
     "last_status": "OK"
   },
   "gcp.databricks.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571719Z",
+    "last_checked": "2026-10-09T08:14:46.539345Z",
+    "last_status": "OK"
+  },
+  "geller-pa.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539347Z",
     "last_status": "OK"
   },
   "gemini.google": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571720Z",
+    "last_checked": "2026-10-09T08:14:46.539349Z",
     "last_status": "OK"
   },
   "gemini.google.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571721Z",
+    "last_checked": "2026-10-09T08:14:46.539351Z",
     "last_status": "OK"
   },
   "gemini.gstatic.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571723Z",
+    "last_checked": "2026-10-09T08:14:46.539353Z",
+    "last_status": "OK"
+  },
+  "geminiweb-pa.clients.google.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539355Z",
+    "last_status": "OK"
+  },
+  "geminiweb-pa.clients6.google.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539359Z",
     "last_status": "OK"
   },
   "generativeai.google": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571724Z",
+    "last_checked": "2026-10-09T08:14:46.539361Z",
     "last_status": "OK"
   },
   "generativelanguage.googleapis.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571726Z",
+    "last_checked": "2026-10-09T08:14:46.539363Z",
     "last_status": "OK"
   },
   "genmo.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571728Z",
+    "last_checked": "2026-10-09T08:14:46.539365Z",
     "last_status": "OK"
   },
   "genspark.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571729Z",
+    "last_checked": "2026-10-09T08:14:46.539367Z",
     "last_status": "OK"
   },
   "getbraintree.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571730Z",
+    "last_checked": "2026-10-09T08:14:46.539369Z",
     "last_status": "OK"
   },
   "githubcopilot.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571731Z",
+    "last_checked": "2026-10-09T08:14:46.539371Z",
     "last_status": "OK"
   },
   "glean.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571733Z",
-    "last_status": "OK"
-  },
-  "gmoney.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571734Z",
+    "last_checked": "2026-10-09T08:14:46.539373Z",
     "last_status": "OK"
   },
   "grammarly.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571735Z",
+    "last_checked": "2026-10-09T08:14:46.539375Z",
     "last_status": "OK"
   },
   "granola.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571736Z",
+    "last_checked": "2026-10-09T08:14:46.539377Z",
     "last_status": "OK"
   },
   "granola.so": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571737Z",
+    "last_checked": "2026-10-09T08:14:46.539379Z",
+    "last_status": "OK"
+  },
+  "grazie.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539381Z",
+    "last_status": "OK"
+  },
+  "grazie.aws.intellij.net": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539383Z",
     "last_status": "OK"
   },
   "grep.app": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571739Z",
+    "last_checked": "2026-10-09T08:14:46.539385Z",
     "last_status": "OK"
   },
   "greptile.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571740Z",
+    "last_checked": "2026-10-09T08:14:46.539387Z",
     "last_status": "OK"
   },
   "grok-sandbox.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571742Z",
+    "last_checked": "2026-10-09T08:14:46.539389Z",
     "last_status": "OK"
   },
   "grok.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571743Z",
+    "last_checked": "2026-10-09T08:14:46.539391Z",
+    "last_status": "OK"
+  },
+  "grok.x.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539393Z",
     "last_status": "OK"
   },
   "grokipedia.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571745Z",
+    "last_checked": "2026-10-09T08:14:46.539395Z",
     "last_status": "OK"
   },
   "groksupport.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571747Z",
+    "last_checked": "2026-10-09T08:14:46.539398Z",
     "last_status": "OK"
   },
   "groktpcontent.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571748Z",
+    "last_checked": "2026-10-09T08:14:46.539400Z",
     "last_status": "OK"
   },
   "grokusercontent.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571749Z",
+    "last_checked": "2026-10-09T08:14:46.539402Z",
     "last_status": "OK"
   },
   "groq.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571750Z",
+    "last_checked": "2026-10-09T08:14:46.539404Z",
+    "last_status": "OK"
+  },
+  "h2o.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539406Z",
+    "last_status": "OK"
+  },
+  "hcaptcha.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539407Z",
     "last_status": "OK"
   },
   "hebbia.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571751Z",
+    "last_checked": "2026-10-09T08:14:46.539409Z",
     "last_status": "OK"
   },
   "hebbia.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571753Z",
+    "last_checked": "2026-10-09T08:14:46.539411Z",
     "last_status": "OK"
   },
   "hedra.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571754Z",
+    "last_checked": "2026-10-09T08:14:46.539413Z",
     "last_status": "OK"
   },
   "helicone.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571756Z",
+    "last_checked": "2026-10-09T08:14:46.539415Z",
+    "last_status": "OK"
+  },
+  "heygen.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539417Z",
     "last_status": "OK"
   },
   "heygen.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571757Z",
+    "last_checked": "2026-10-09T08:14:46.539421Z",
     "last_status": "OK"
   },
   "hf.co": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571761Z",
+    "last_checked": "2026-10-09T08:14:46.539423Z",
     "last_status": "OK"
   },
   "hf.space": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571763Z",
+    "last_checked": "2026-10-09T08:14:46.539425Z",
     "last_status": "OK"
   },
   "higgsfield.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571765Z",
+    "last_checked": "2026-10-09T08:14:46.539427Z",
     "last_status": "OK"
   },
   "host.livekit.cloud": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571767Z",
+    "last_checked": "2026-10-09T08:14:46.539429Z",
     "last_status": "OK"
   },
   "huggingface.co": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571769Z",
+    "last_checked": "2026-10-09T08:14:46.539431Z",
     "last_status": "OK"
   },
   "hume.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571772Z",
+    "last_checked": "2026-10-09T08:14:46.539433Z",
     "last_status": "OK"
   },
   "hyperbolic.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571774Z",
+    "last_checked": "2026-10-09T08:14:46.539435Z",
     "last_status": "OK"
   },
   "hyperbolic.xyz": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571775Z",
-    "last_status": "OK"
-  },
-  "i-o-u.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571777Z",
+    "last_checked": "2026-10-09T08:14:46.539437Z",
     "last_status": "OK"
   },
   "id.me": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571779Z",
+    "last_checked": "2026-10-09T08:14:46.539439Z",
+    "last_status": "OK"
+  },
+  "identitytoolkit.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539441Z",
     "last_status": "OK"
   },
   "identrust.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571780Z",
+    "last_checked": "2026-10-09T08:14:46.539443Z",
     "last_status": "OK"
   },
   "ideogram.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571781Z",
+    "last_checked": "2026-10-09T08:14:46.539445Z",
     "last_status": "OK"
   },
   "idetoolkits-hostedfiles.amazonaws.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571783Z",
+    "last_checked": "2026-10-09T08:14:46.539447Z",
     "last_status": "OK"
   },
   "idetoolkits.amazonwebservices.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571784Z",
+    "last_checked": "2026-10-09T08:14:46.539449Z",
     "last_status": "OK"
   },
   "in.appcenter.ms": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571785Z",
+    "last_checked": "2026-10-09T08:14:46.539451Z",
     "last_status": "OK"
   },
   "inflection.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571787Z",
+    "last_checked": "2026-10-09T08:14:46.539453Z",
     "last_status": "OK"
   },
   "integrate.api.nvidia.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571788Z",
+    "last_checked": "2026-10-09T08:14:46.539455Z",
+    "last_status": "OK"
+  },
+  "interaction.co": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539457Z",
     "last_status": "OK"
   },
   "intercom.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571789Z",
+    "last_checked": "2026-10-09T08:14:46.539459Z",
     "last_status": "OK"
   },
   "intercomcdn.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571790Z",
+    "last_checked": "2026-10-09T08:14:46.539461Z",
     "last_status": "OK"
   },
   "invideo.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571792Z",
+    "last_checked": "2026-10-09T08:14:46.539463Z",
     "last_status": "OK"
   },
   "jasper.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571793Z",
+    "last_checked": "2026-10-09T08:14:46.539465Z",
+    "last_status": "OK"
+  },
+  "jetbrains.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539467Z",
     "last_status": "OK"
   },
   "jules.google": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571794Z",
+    "last_checked": "2026-10-09T08:14:46.539469Z",
+    "last_status": "OK"
+  },
+  "jules.google.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539471Z",
     "last_status": "OK"
   },
   "kaiber.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571795Z",
+    "last_checked": "2026-10-09T08:14:46.539473Z",
     "last_status": "OK"
   },
   "kilo.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571796Z",
+    "last_checked": "2026-10-09T08:14:46.539475Z",
     "last_status": "OK"
   },
   "kilocode.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571798Z",
+    "last_checked": "2026-10-09T08:14:46.539477Z",
     "last_status": "OK"
   },
   "kiro.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571799Z",
-    "last_status": "OK"
-  },
-  "krakenjs.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571800Z",
+    "last_checked": "2026-10-09T08:14:46.539479Z",
     "last_status": "OK"
   },
   "krea.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571801Z",
+    "last_checked": "2026-10-09T08:14:46.539481Z",
     "last_status": "OK"
   },
   "labs.google": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571802Z",
+    "last_checked": "2026-10-09T08:14:46.539483Z",
+    "last_status": "OK"
+  },
+  "labs.google.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539485Z",
+    "last_status": "OK"
+  },
+  "labstailwind.pa.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539489Z",
     "last_status": "OK"
   },
   "lambda.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571804Z",
+    "last_checked": "2026-10-09T08:14:46.539491Z",
     "last_status": "OK"
   },
   "langchain.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571805Z",
+    "last_checked": "2026-10-09T08:14:46.539493Z",
     "last_status": "OK"
   },
   "langfuse.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571806Z",
+    "last_checked": "2026-10-09T08:14:46.539495Z",
     "last_status": "OK"
   },
   "langsmith.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571807Z",
+    "last_checked": "2026-10-09T08:14:46.539497Z",
     "last_status": "OK"
   },
   "launchdarkly.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571808Z",
+    "last_checked": "2026-10-09T08:14:46.539499Z",
     "last_status": "OK"
   },
   "lemonsqueezy.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571810Z",
+    "last_checked": "2026-10-09T08:14:46.539501Z",
     "last_status": "OK"
   },
   "leonardo.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571811Z",
+    "last_checked": "2026-10-09T08:14:46.539503Z",
     "last_status": "OK"
   },
   "lindy.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571812Z",
+    "last_checked": "2026-10-09T08:14:46.539505Z",
     "last_status": "OK"
   },
   "link.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571814Z",
+    "last_checked": "2026-10-09T08:14:46.539507Z",
     "last_status": "OK"
   },
   "liquid.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571815Z",
+    "last_checked": "2026-10-09T08:14:46.539509Z",
     "last_status": "OK"
   },
   "litellm.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571816Z",
+    "last_checked": "2026-10-09T08:14:46.539513Z",
     "last_status": "OK"
   },
   "llamaindex.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571817Z",
+    "last_checked": "2026-10-09T08:14:46.539515Z",
     "last_status": "OK"
   },
   "lmnt.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571818Z",
+    "last_checked": "2026-10-09T08:14:46.539517Z",
     "last_status": "OK"
   },
   "lmstudio.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571819Z",
-    "last_status": "OK"
-  },
-  "loanbuilder.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571820Z",
+    "last_checked": "2026-10-09T08:14:46.539519Z",
     "last_status": "OK"
   },
   "location.microsoft.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571821Z",
-    "last_status": "OK"
-  },
-  "login-paypal.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571822Z",
-    "last_status": "OK"
-  },
-  "login-paypal.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571824Z",
+    "last_checked": "2026-10-09T08:14:46.539520Z",
     "last_status": "OK"
   },
   "lovable.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571825Z",
+    "last_checked": "2026-10-09T08:14:46.539522Z",
     "last_status": "OK"
   },
   "lovart.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571826Z",
+    "last_checked": "2026-10-09T08:14:46.539524Z",
     "last_status": "OK"
   },
   "luma.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571827Z",
+    "last_checked": "2026-10-09T08:14:46.539526Z",
     "last_status": "OK"
   },
   "lumalabs.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571828Z",
+    "last_checked": "2026-10-09T08:14:46.539528Z",
     "last_status": "OK"
   },
   "magnific.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571829Z",
+    "last_checked": "2026-10-09T08:14:46.539530Z",
     "last_status": "OK"
   },
   "makersuite.google.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571831Z",
+    "last_checked": "2026-10-09T08:14:46.539532Z",
     "last_status": "OK"
   },
   "manus.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571832Z",
+    "last_checked": "2026-10-09T08:14:46.539534Z",
     "last_status": "OK"
   },
   "manus.im": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571833Z",
+    "last_checked": "2026-10-09T08:14:46.539536Z",
     "last_status": "OK"
   },
   "manuscdn.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571834Z",
+    "last_checked": "2026-10-09T08:14:46.539538Z",
     "last_status": "OK"
   },
   "meetgeek.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571835Z",
+    "last_checked": "2026-10-09T08:14:46.539540Z",
     "last_status": "OK"
   },
   "mem.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571837Z",
+    "last_checked": "2026-10-09T08:14:46.539542Z",
     "last_status": "OK"
   },
   "meta.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571840Z",
+    "last_checked": "2026-10-09T08:14:46.539544Z",
+    "last_status": "OK"
+  },
+  "metaaivm.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539545Z",
     "last_status": "OK"
   },
   "midjourney.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571842Z",
+    "last_checked": "2026-10-09T08:14:46.539548Z",
     "last_status": "OK"
   },
   "milvus.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571844Z",
+    "last_checked": "2026-10-09T08:14:46.539550Z",
+    "last_status": "OK"
+  },
+  "mindstudio.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539552Z",
     "last_status": "OK"
   },
   "mintlify.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571847Z",
+    "last_checked": "2026-10-09T08:14:46.539555Z",
     "last_status": "OK"
   },
   "mistral.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571848Z",
+    "last_checked": "2026-10-09T08:14:46.539557Z",
     "last_status": "OK"
   },
   "ml.cloud.ibm.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571850Z",
+    "last_checked": "2026-10-09T08:14:46.539588Z",
     "last_status": "OK"
   },
   "modal.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571852Z",
+    "last_checked": "2026-10-09T08:14:46.539592Z",
     "last_status": "OK"
   },
   "models.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571853Z",
+    "last_checked": "2026-10-09T08:14:46.539595Z",
+    "last_status": "OK"
+  },
+  "mozilla.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539596Z",
     "last_status": "OK"
   },
   "murf.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571855Z",
+    "last_checked": "2026-10-09T08:14:46.539598Z",
     "last_status": "OK"
   },
-  "mywaytopay.info": {
+  "muse.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571856Z",
+    "last_checked": "2026-10-09T08:14:46.539601Z",
     "last_status": "OK"
   },
-  "mywaytopay.net": {
+  "myclaw.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571857Z",
+    "last_checked": "2026-10-09T08:14:46.539602Z",
     "last_status": "OK"
   },
   "nebius.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571859Z",
+    "last_checked": "2026-10-09T08:14:46.539604Z",
     "last_status": "OK"
   },
   "nomic.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571860Z",
+    "last_checked": "2026-10-09T08:14:46.539607Z",
+    "last_status": "OK"
+  },
+  "notebook.google": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539609Z",
+    "last_status": "OK"
+  },
+  "notebook.google.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539611Z",
+    "last_status": "OK"
+  },
+  "notebooklm-pa.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539613Z",
     "last_status": "OK"
   },
   "notebooklm.google": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571861Z",
+    "last_checked": "2026-10-09T08:14:46.539614Z",
+    "last_status": "OK"
+  },
+  "notebooklm.google.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539617Z",
+    "last_status": "OK"
+  },
+  "notebooklm.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539618Z",
+    "last_status": "OK"
+  },
+  "notegpt.io": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539620Z",
     "last_status": "OK"
   },
   "nousresearch.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571862Z",
+    "last_checked": "2026-10-09T08:14:46.539622Z",
+    "last_status": "OK"
+  },
+  "novelai.net": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539624Z",
     "last_status": "OK"
   },
   "novita.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571863Z",
+    "last_checked": "2026-10-09T08:14:46.539626Z",
     "last_status": "OK"
   },
   "oaistatic.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571864Z",
+    "last_checked": "2026-10-09T08:14:46.539628Z",
+    "last_status": "OK"
+  },
+  "oaistatsig.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539630Z",
     "last_status": "OK"
   },
   "oaiusercontent.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571866Z",
+    "last_checked": "2026-10-09T08:14:46.539632Z",
     "last_status": "OK"
   },
   "observeit.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571867Z",
+    "last_checked": "2026-10-09T08:14:46.539634Z",
     "last_status": "OK"
   },
   "odc.officeapps.live.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571868Z",
+    "last_checked": "2026-10-09T08:14:46.539636Z",
     "last_status": "OK"
   },
   "ollama.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571869Z",
+    "last_checked": "2026-10-09T08:14:46.539638Z",
     "last_status": "OK"
   },
   "ollama.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571870Z",
+    "last_checked": "2026-10-09T08:14:46.539640Z",
+    "last_status": "OK"
+  },
+  "one.google.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539643Z",
+    "last_status": "OK"
+  },
+  "opal.google": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539647Z",
+    "last_status": "OK"
+  },
+  "opal.google.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539649Z",
     "last_status": "OK"
   },
   "openai-api.arkoselabs.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571872Z",
+    "last_checked": "2026-10-09T08:14:46.539653Z",
     "last_status": "OK"
   },
   "openai.azure.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571873Z",
+    "last_checked": "2026-10-09T08:14:46.539655Z",
     "last_status": "OK"
   },
   "openai.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571874Z",
+    "last_checked": "2026-10-09T08:14:46.539657Z",
     "last_status": "OK"
   },
   "openaiapi-site.azureedge.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571876Z",
+    "last_checked": "2026-10-09T08:14:46.539659Z",
     "last_status": "OK"
   },
   "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571877Z",
+    "last_checked": "2026-10-09T08:14:46.539661Z",
     "last_status": "OK"
   },
   "openaicom.imgix.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571878Z",
+    "last_checked": "2026-10-09T08:14:46.539663Z",
     "last_status": "OK"
   },
   "openaicomproductionae4b.blob.core.windows.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571880Z",
+    "last_checked": "2026-10-09T08:14:46.539665Z",
+    "last_status": "OK"
+  },
+  "openart.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539668Z",
     "last_status": "OK"
   },
   "openclaw.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571881Z",
+    "last_checked": "2026-10-09T08:14:46.539670Z",
     "last_status": "OK"
   },
   "opencode.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571883Z",
+    "last_checked": "2026-10-09T08:14:46.539672Z",
     "last_status": "OK"
   },
   "opencode.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571884Z",
+    "last_checked": "2026-10-09T08:14:46.539674Z",
     "last_status": "OK"
   },
   "opencode.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571885Z",
+    "last_checked": "2026-10-09T08:14:46.539676Z",
     "last_status": "OK"
   },
   "openrouter.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571886Z",
+    "last_checked": "2026-10-09T08:14:46.539678Z",
+    "last_status": "OK"
+  },
+  "openspec.dev": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539680Z",
     "last_status": "OK"
   },
   "opncd.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571888Z",
+    "last_checked": "2026-10-09T08:14:46.539682Z",
     "last_status": "OK"
   },
   "otter.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571889Z",
-    "last_status": "OK"
-  },
-  "pa9pal.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571890Z",
-    "last_status": "OK"
-  },
-  "paaypal.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571892Z",
+    "last_checked": "2026-10-09T08:14:46.539684Z",
     "last_status": "OK"
   },
   "paddle.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571893Z",
+    "last_checked": "2026-10-09T08:14:46.539686Z",
     "last_status": "OK"
   },
-  "paily.net": {
+  "pay.google.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571894Z",
+    "last_checked": "2026-10-09T08:14:46.539688Z",
     "last_status": "OK"
   },
-  "paily.org": {
+  "payments.google.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571896Z",
-    "last_status": "OK"
-  },
-  "paipal.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571897Z",
-    "last_status": "OK"
-  },
-  "pavpal.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571898Z",
-    "last_status": "OK"
-  },
-  "paydiant.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571900Z",
-    "last_status": "OK"
-  },
-  "paylike.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571901Z",
-    "last_status": "OK"
-  },
-  "paypa1.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571903Z",
-    "last_status": "OK"
-  },
-  "paypa1.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571904Z",
-    "last_status": "OK"
-  },
-  "paypaal.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571905Z",
-    "last_status": "OK"
-  },
-  "paypal-activate.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571906Z",
-    "last_status": "OK"
-  },
-  "paypal-activate.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571908Z",
-    "last_status": "OK"
-  },
-  "paypal-activate.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571909Z",
-    "last_status": "OK"
-  },
-  "paypal-apac.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571911Z",
-    "last_status": "OK"
-  },
-  "paypal-apps.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571912Z",
-    "last_status": "OK"
-  },
-  "paypal-biz.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571913Z",
-    "last_status": "OK"
-  },
-  "paypal-brandcentral.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571915Z",
-    "last_status": "OK"
-  },
-  "paypal-business.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571916Z",
-    "last_status": "OK"
-  },
-  "paypal-business.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571920Z",
-    "last_status": "OK"
-  },
-  "paypal-business.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571922Z",
-    "last_status": "OK"
-  },
-  "paypal-cardcash.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571924Z",
-    "last_status": "OK"
-  },
-  "paypal-cash.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571926Z",
-    "last_status": "OK"
-  },
-  "paypal-center.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571928Z",
-    "last_status": "OK"
-  },
-  "paypal-center.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571930Z",
-    "last_status": "OK"
-  },
-  "paypal-center.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571932Z",
-    "last_status": "OK"
-  },
-  "paypal-center.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571933Z",
-    "last_status": "OK"
-  },
-  "paypal-communication.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571934Z",
-    "last_status": "OK"
-  },
-  "paypal-communications.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571935Z",
-    "last_status": "OK"
-  },
-  "paypal-communications.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571936Z",
-    "last_status": "OK"
-  },
-  "paypal-community.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571938Z",
-    "last_status": "OK"
-  },
-  "paypal-community.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571939Z",
-    "last_status": "OK"
-  },
-  "paypal-comunidad.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571940Z",
-    "last_status": "OK"
-  },
-  "paypal-corp.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571941Z",
-    "last_status": "OK"
-  },
-  "paypal-database.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571943Z",
-    "last_status": "OK"
-  },
-  "paypal-database.us": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571944Z",
-    "last_status": "OK"
-  },
-  "paypal-donations.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571946Z",
-    "last_status": "OK"
-  },
-  "paypal-dynamic.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571947Z",
-    "last_status": "OK"
-  },
-  "paypal-engineering.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571949Z",
-    "last_status": "OK"
-  },
-  "paypal-europe.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571950Z",
-    "last_status": "OK"
-  },
-  "paypal-excelinvoicing.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571951Z",
-    "last_status": "OK"
-  },
-  "paypal-exchanges.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571953Z",
-    "last_status": "OK"
-  },
-  "paypal-forward.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571954Z",
-    "last_status": "OK"
-  },
-  "paypal-galactic.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571955Z",
-    "last_status": "OK"
-  },
-  "paypal-gift.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571956Z",
-    "last_status": "OK"
-  },
-  "paypal-gifts.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571960Z",
-    "last_status": "OK"
-  },
-  "paypal-gpplus.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571961Z",
-    "last_status": "OK"
-  },
-  "paypal-here.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571962Z",
-    "last_status": "OK"
-  },
-  "paypal-hrsystem.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571963Z",
-    "last_status": "OK"
-  },
-  "paypal-innovationlab.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571965Z",
-    "last_status": "OK"
-  },
-  "paypal-integration.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571966Z",
-    "last_status": "OK"
-  },
-  "paypal-japan.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571967Z",
-    "last_status": "OK"
-  },
-  "paypal-knowledge.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571969Z",
-    "last_status": "OK"
-  },
-  "paypal-labs.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571970Z",
-    "last_status": "OK"
-  },
-  "paypal-latam.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571971Z",
-    "last_status": "OK"
-  },
-  "paypal-learning.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571973Z",
-    "last_status": "OK"
-  },
-  "paypal-login.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571976Z",
-    "last_status": "OK"
-  },
-  "paypal-login.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571978Z",
-    "last_status": "OK"
-  },
-  "paypal-login.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571979Z",
-    "last_status": "OK"
-  },
-  "paypal-login.us": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571981Z",
-    "last_status": "OK"
-  },
-  "paypal-luxury.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571982Z",
-    "last_status": "OK"
-  },
-  "paypal-mainstreet.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571984Z",
-    "last_status": "OK"
-  },
-  "paypal-marketing.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571985Z",
-    "last_status": "OK"
-  },
-  "paypal-media.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571987Z",
-    "last_status": "OK"
-  },
-  "paypal-merchantloyalty.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571989Z",
-    "last_status": "OK"
-  },
-  "paypal-mktg.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571990Z",
-    "last_status": "OK"
-  },
-  "paypal-mobilemoney.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571991Z",
-    "last_status": "OK"
-  },
-  "paypal-network.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571992Z",
-    "last_status": "OK"
-  },
-  "paypal-notice.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571994Z",
-    "last_status": "OK"
-  },
-  "paypal-notify.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.571998Z",
-    "last_status": "OK"
-  },
-  "paypal-online.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572000Z",
-    "last_status": "OK"
-  },
-  "paypal-online.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572002Z",
-    "last_status": "OK"
-  },
-  "paypal-online.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572004Z",
-    "last_status": "OK"
-  },
-  "paypal-optimizer.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572006Z",
-    "last_status": "OK"
-  },
-  "paypal-pages.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572008Z",
-    "last_status": "OK"
-  },
-  "paypal-photocard.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572009Z",
-    "last_status": "OK"
-  },
-  "paypal-plaza.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572011Z",
-    "last_status": "OK"
-  },
-  "paypal-portal.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572012Z",
-    "last_status": "OK"
-  },
-  "paypal-prepagata.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572013Z",
-    "last_status": "OK"
-  },
-  "paypal-prepagata.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572014Z",
-    "last_status": "OK"
-  },
-  "paypal-prepaid.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572016Z",
-    "last_status": "OK"
-  },
-  "paypal-profile.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572017Z",
-    "last_status": "OK"
-  },
-  "paypal-proserv.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572018Z",
-    "last_status": "OK"
-  },
-  "paypal-qrshopping.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572019Z",
-    "last_status": "OK"
-  },
-  "paypal-recargacelular.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572020Z",
-    "last_status": "OK"
-  },
-  "paypal-redeem.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572022Z",
-    "last_status": "OK"
-  },
-  "paypal-referral.com": {
-    "count": 100,
-    "last_checked": "2026-10-08T08:14:01.572023Z",
-    "last_status": "NXDOMAIN"
-  },
-  "paypal-retail.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572024Z",
-    "last_status": "OK"
-  },
-  "paypal-scoop.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572026Z",
-    "last_status": "OK"
-  },
-  "paypal-search.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572027Z",
-    "last_status": "OK"
-  },
-  "paypal-secure.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572028Z",
-    "last_status": "OK"
-  },
-  "paypal-secure.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572030Z",
-    "last_status": "OK"
-  },
-  "paypal-security.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572031Z",
-    "last_status": "OK"
-  },
-  "paypal-security.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572032Z",
-    "last_status": "OK"
-  },
-  "paypal-service.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572033Z",
-    "last_status": "OK"
-  },
-  "paypal-signin.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572035Z",
-    "last_status": "OK"
-  },
-  "paypal-signin.us": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572036Z",
-    "last_status": "OK"
-  },
-  "paypal-special.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572037Z",
-    "last_status": "OK"
-  },
-  "paypal-specialoffers.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572038Z",
-    "last_status": "OK"
-  },
-  "paypal-sptam.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572040Z",
-    "last_status": "OK"
-  },
-  "paypal-status.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572041Z",
-    "last_status": "OK"
-  },
-  "paypal-support.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572043Z",
-    "last_status": "OK"
-  },
-  "paypal-survey.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572044Z",
-    "last_status": "OK"
-  },
-  "paypal-survey.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572046Z",
-    "last_status": "OK"
-  },
-  "paypal-team.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572047Z",
-    "last_status": "OK"
-  },
-  "paypal-viewpoints.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572048Z",
-    "last_status": "OK"
-  },
-  "paypal.ca": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572051Z",
+    "last_checked": "2026-10-09T08:14:46.539690Z",
     "last_status": "OK"
   },
   "paypal.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572052Z",
-    "last_status": "OK"
-  },
-  "paypal.com.cn": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572054Z",
-    "last_status": "OK"
-  },
-  "paypal.com.hk": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572071Z",
-    "last_status": "OK"
-  },
-  "paypal.com.sg": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572073Z",
-    "last_status": "OK"
-  },
-  "paypal.hk": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572075Z",
-    "last_status": "OK"
-  },
-  "paypal.info": {
-    "count": 66,
-    "last_checked": "2026-10-08T08:14:01.572076Z",
-    "last_status": "NXDOMAIN"
-  },
-  "paypal.jp": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572078Z",
+    "last_checked": "2026-10-09T08:14:46.539694Z",
     "last_status": "OK"
   },
   "paypal.me": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572079Z",
-    "last_status": "OK"
-  },
-  "paypal.net.cn": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572081Z",
-    "last_status": "OK"
-  },
-  "paypal.org.cn": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572082Z",
-    "last_status": "OK"
-  },
-  "paypal.so": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572083Z",
-    "last_status": "OK"
-  },
-  "paypal.us": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572085Z",
-    "last_status": "OK"
-  },
-  "paypalbeacon.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572086Z",
-    "last_status": "OK"
-  },
-  "paypalbenefits.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572087Z",
-    "last_status": "OK"
-  },
-  "paypalbrasil.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572089Z",
-    "last_status": "OK"
-  },
-  "paypalcommunity.cn": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572090Z",
-    "last_status": "OK"
-  },
-  "paypalcommunity.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572092Z",
-    "last_status": "OK"
-  },
-  "paypalcommunity.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572093Z",
-    "last_status": "OK"
-  },
-  "paypalcommunity.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572095Z",
-    "last_status": "OK"
-  },
-  "paypalcorp.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572096Z",
-    "last_status": "OK"
-  },
-  "paypalcredit.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572097Z",
-    "last_status": "OK"
-  },
-  "paypalcreditcard.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572099Z",
-    "last_status": "OK"
-  },
-  "paypalgivingfund.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572100Z",
-    "last_status": "OK"
-  },
-  "paypalhere.cn": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572101Z",
-    "last_status": "OK"
-  },
-  "paypalhere.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572102Z",
-    "last_status": "OK"
-  },
-  "paypalhere.com.cn": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572104Z",
-    "last_status": "OK"
-  },
-  "paypalhere.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572105Z",
-    "last_status": "OK"
-  },
-  "paypalhere.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572108Z",
-    "last_status": "OK"
-  },
-  "paypalhere.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572109Z",
-    "last_status": "OK"
-  },
-  "paypalhere.tv": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572110Z",
-    "last_status": "OK"
-  },
-  "paypali.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572112Z",
-    "last_status": "OK"
-  },
-  "paypalinc.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572113Z",
-    "last_status": "OK"
-  },
-  "paypalindia.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572114Z",
-    "last_status": "OK"
-  },
-  "paypalinsuranceservices.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572115Z",
-    "last_status": "OK"
-  },
-  "paypall.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572117Z",
-    "last_status": "OK"
-  },
-  "paypallabs.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572118Z",
-    "last_status": "OK"
-  },
-  "paypalme.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572119Z",
-    "last_status": "OK"
-  },
-  "paypalnet.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572121Z",
-    "last_status": "OK"
-  },
-  "paypalnet.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572122Z",
-    "last_status": "OK"
-  },
-  "paypalnetwork.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572123Z",
-    "last_status": "OK"
-  },
-  "paypalnetwork.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572125Z",
-    "last_status": "OK"
-  },
-  "paypalnetwork.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572126Z",
+    "last_checked": "2026-10-09T08:14:46.539696Z",
     "last_status": "OK"
   },
   "paypalobjects.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572127Z",
-    "last_status": "OK"
-  },
-  "paypalonline.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572128Z",
-    "last_status": "OK"
-  },
-  "paypalonline.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572130Z",
-    "last_status": "OK"
-  },
-  "paypalprepagata.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572131Z",
-    "last_status": "OK"
-  },
-  "paypalprepagata.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572133Z",
-    "last_status": "OK"
-  },
-  "paypalservice.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572134Z",
-    "last_status": "OK"
-  },
-  "paypalshopping.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572136Z",
-    "last_status": "OK"
-  },
-  "paypalshopping.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572137Z",
-    "last_status": "OK"
-  },
-  "paypalsurvey.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572142Z",
-    "last_status": "OK"
-  },
-  "paypalx.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572144Z",
-    "last_status": "OK"
-  },
-  "paypaly.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572146Z",
-    "last_status": "OK"
-  },
-  "payppal.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572148Z",
-    "last_status": "OK"
-  },
-  "payypal.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572151Z",
-    "last_status": "OK"
-  },
-  "pdncommunity.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572152Z",
+    "last_checked": "2026-10-09T08:14:46.539699Z",
     "last_status": "OK"
   },
   "perplexity.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572154Z",
+    "last_checked": "2026-10-09T08:14:46.539701Z",
     "last_status": "OK"
   },
   "perplexity.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572156Z",
+    "last_checked": "2026-10-09T08:14:46.539703Z",
     "last_status": "OK"
   },
   "phind.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572158Z",
+    "last_checked": "2026-10-09T08:14:46.539705Z",
     "last_status": "OK"
   },
   "photoroom.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572160Z",
+    "last_checked": "2026-10-09T08:14:46.539707Z",
     "last_status": "OK"
   },
   "pi.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572161Z",
+    "last_checked": "2026-10-09T08:14:46.539709Z",
     "last_status": "OK"
   },
   "pictory.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572163Z",
+    "last_checked": "2026-10-09T08:14:46.539712Z",
     "last_status": "OK"
   },
   "pieces.app": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572164Z",
+    "last_checked": "2026-10-09T08:14:46.539714Z",
     "last_status": "OK"
   },
   "pika.art": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572165Z",
+    "last_checked": "2026-10-09T08:14:46.539716Z",
     "last_status": "OK"
   },
   "pinecone.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572166Z",
+    "last_checked": "2026-10-09T08:14:46.539718Z",
+    "last_status": "OK"
+  },
+  "plannotator.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539720Z",
     "last_status": "OK"
   },
   "play.ht": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572167Z",
+    "last_checked": "2026-10-09T08:14:46.539723Z",
     "last_status": "OK"
   },
   "playgroundai.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572169Z",
+    "last_checked": "2026-10-09T08:14:46.539725Z",
     "last_status": "OK"
   },
   "plusai.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572170Z",
+    "last_checked": "2026-10-09T08:14:46.539727Z",
     "last_status": "OK"
   },
   "poe.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572171Z",
+    "last_checked": "2026-10-09T08:14:46.539729Z",
     "last_status": "OK"
   },
   "poecdn.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572172Z",
+    "last_checked": "2026-10-09T08:14:46.539731Z",
+    "last_status": "OK"
+  },
+  "poke.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539733Z",
     "last_status": "OK"
   },
   "portkey.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572174Z",
+    "last_checked": "2026-10-09T08:14:46.539735Z",
     "last_status": "OK"
   },
-  "pp-soc.com": {
+  "ppl-ai-file-upload.s3.amazonaws.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572175Z",
+    "last_checked": "2026-10-09T08:14:46.539737Z",
     "last_status": "OK"
   },
-  "ppaypal.com": {
+  "pplx-res.cloudinary.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572176Z",
+    "last_checked": "2026-10-09T08:14:46.539739Z",
     "last_status": "OK"
   },
   "pplx.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572178Z",
+    "last_checked": "2026-10-09T08:14:46.539741Z",
     "last_status": "OK"
   },
-  "pppds.com": {
+  "prelude.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572179Z",
+    "last_checked": "2026-10-09T08:14:46.539743Z",
     "last_status": "OK"
   },
   "proactivebackend-pa.googleapis.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572180Z",
+    "last_checked": "2026-10-09T08:14:46.539746Z",
     "last_status": "OK"
   },
   "production-openaicom-storage.azureedge.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572182Z",
+    "last_checked": "2026-10-09T08:14:46.539748Z",
     "last_status": "OK"
   },
-  "pypl.com": {
+  "px-cloud.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572183Z",
-    "last_status": "OK"
-  },
-  "pypl.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572184Z",
-    "last_status": "OK"
-  },
-  "pypl.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572185Z",
-    "last_status": "OK"
-  },
-  "pypl.tv": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572186Z",
+    "last_checked": "2026-10-09T08:14:46.539750Z",
     "last_status": "OK"
   },
   "q.us-east-1.amazonaws.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572188Z",
+    "last_checked": "2026-10-09T08:14:46.539752Z",
     "last_status": "OK"
   },
   "qdrant.tech": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572189Z",
+    "last_checked": "2026-10-09T08:14:46.539754Z",
     "last_status": "OK"
   },
   "qodo.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572190Z",
+    "last_checked": "2026-10-09T08:14:46.539756Z",
     "last_status": "OK"
   },
   "qpoe.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572192Z",
+    "last_checked": "2026-10-09T08:14:46.539760Z",
     "last_status": "OK"
   },
   "quillbot.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572193Z",
+    "last_checked": "2026-10-09T08:14:46.539762Z",
     "last_status": "OK"
   },
   "r.bing.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572194Z",
+    "last_checked": "2026-10-09T08:14:46.539764Z",
     "last_status": "OK"
   },
   "read.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572195Z",
+    "last_checked": "2026-10-09T08:14:46.539766Z",
+    "last_status": "OK"
+  },
+  "recaptcha.net": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539768Z",
     "last_status": "OK"
   },
   "recraft.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572197Z",
+    "last_checked": "2026-10-09T08:14:46.539770Z",
     "last_status": "OK"
   },
   "refact.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572198Z",
+    "last_checked": "2026-10-09T08:14:46.539772Z",
     "last_status": "OK"
   },
   "reka.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572201Z",
+    "last_checked": "2026-10-09T08:14:46.539774Z",
     "last_status": "OK"
   },
   "relay.app": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572203Z",
+    "last_checked": "2026-10-09T08:14:46.539776Z",
     "last_status": "OK"
   },
   "remove.bg": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572204Z",
+    "last_checked": "2026-10-09T08:14:46.539778Z",
     "last_status": "OK"
   },
   "replicate.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572206Z",
+    "last_checked": "2026-10-09T08:14:46.539780Z",
     "last_status": "OK"
   },
   "replicate.delivery": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572207Z",
+    "last_checked": "2026-10-09T08:14:46.539782Z",
     "last_status": "OK"
   },
   "replit.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572208Z",
+    "last_checked": "2026-10-09T08:14:46.539784Z",
     "last_status": "OK"
   },
   "resemble.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572209Z",
+    "last_checked": "2026-10-09T08:14:46.539786Z",
     "last_status": "OK"
   },
   "respeecher.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572210Z",
+    "last_checked": "2026-10-09T08:14:46.539788Z",
+    "last_status": "OK"
+  },
+  "robinfrontend-pa.googleapis.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539792Z",
     "last_status": "OK"
   },
   "roocode.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572212Z",
+    "last_checked": "2026-10-09T08:14:46.539794Z",
     "last_status": "OK"
   },
   "runpod.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572213Z",
+    "last_checked": "2026-10-09T08:14:46.539795Z",
+    "last_status": "OK"
+  },
+  "runway.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539797Z",
     "last_status": "OK"
   },
   "runwayml.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572214Z",
+    "last_checked": "2026-10-09T08:14:46.539799Z",
     "last_status": "OK"
   },
   "rytr.me": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572219Z",
-    "last_status": "OK"
-  },
-  "s-xoom.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572221Z",
+    "last_checked": "2026-10-09T08:14:46.539801Z",
     "last_status": "OK"
   },
   "sambanova.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572223Z",
+    "last_checked": "2026-10-09T08:14:46.539803Z",
     "last_status": "OK"
   },
   "scrapingbee.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572225Z",
+    "last_checked": "2026-10-09T08:14:46.539806Z",
     "last_status": "OK"
   },
-  "secure-paypal.info": {
+  "securetoken.googleapis.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572227Z",
-    "last_status": "OK"
-  },
-  "securepaypal.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572229Z",
+    "last_checked": "2026-10-09T08:14:46.539808Z",
     "last_status": "OK"
   },
   "segment.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572231Z",
+    "last_checked": "2026-10-09T08:14:46.539810Z",
     "last_status": "OK"
   },
   "self.events.data.microsoft.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572233Z",
+    "last_checked": "2026-10-09T08:14:46.539812Z",
     "last_status": "OK"
   },
   "sentry.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572234Z",
+    "last_checked": "2026-10-09T08:14:46.539813Z",
     "last_status": "OK"
   },
   "serpapi.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572236Z",
+    "last_checked": "2026-10-09T08:14:46.539815Z",
     "last_status": "OK"
   },
   "serper.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572237Z",
+    "last_checked": "2026-10-09T08:14:46.539817Z",
     "last_status": "OK"
   },
   "servd-anthropic-website.b-cdn.net": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572238Z",
+    "last_checked": "2026-10-09T08:14:46.539819Z",
     "last_status": "OK"
   },
   "services.bingapis.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572240Z",
+    "last_checked": "2026-10-09T08:14:46.539821Z",
     "last_status": "OK"
   },
   "sheerid.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572241Z",
+    "last_checked": "2026-10-09T08:14:46.539823Z",
+    "last_status": "OK"
+  },
+  "sider.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539825Z",
     "last_status": "OK"
   },
   "sierra.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572243Z",
+    "last_checked": "2026-10-09T08:14:46.539827Z",
     "last_status": "OK"
   },
-  "simility.com": {
+  "simular.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572244Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539829Z",
+    "last_status": "OK"
+  },
+  "slashy.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539831Z",
+    "last_status": "OK"
   },
   "smallcloud.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572246Z",
+    "last_checked": "2026-10-09T08:14:46.539833Z",
     "last_status": "OK"
   },
   "snowflakecomputing.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572248Z",
+    "last_checked": "2026-10-09T08:14:46.539836Z",
     "last_status": "OK"
   },
   "sora.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572249Z",
+    "last_checked": "2026-10-09T08:14:46.539838Z",
     "last_status": "OK"
   },
   "sourcegraph.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572251Z",
+    "last_checked": "2026-10-09T08:14:46.539840Z",
     "last_status": "OK"
   },
   "sourcery.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572252Z",
+    "last_checked": "2026-10-09T08:14:46.539842Z",
     "last_status": "OK"
   },
   "specs.q.us-east-1.amazonaws.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572255Z",
+    "last_checked": "2026-10-09T08:14:46.539844Z",
     "last_status": "OK"
   },
   "speechify.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572256Z",
+    "last_checked": "2026-10-09T08:14:46.539846Z",
     "last_status": "OK"
   },
-  "sslpaypal.org": {
+  "spicywriter.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572257Z",
+    "last_checked": "2026-10-09T08:14:46.539848Z",
     "last_status": "OK"
   },
   "stability.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572259Z",
+    "last_checked": "2026-10-09T08:14:46.539850Z",
     "last_status": "OK"
   },
   "static.cloudflareinsights.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572260Z",
+    "last_checked": "2026-10-09T08:14:46.539852Z",
     "last_status": "OK"
   },
   "stitch.withgoogle.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572261Z",
+    "last_checked": "2026-10-09T08:14:46.539854Z",
     "last_status": "OK"
   },
   "stripe.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572262Z",
+    "last_checked": "2026-10-09T08:14:46.539858Z",
+    "last_status": "OK"
+  },
+  "stytch.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539860Z",
     "last_status": "OK"
   },
   "sudowrite.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572264Z",
+    "last_checked": "2026-10-09T08:14:46.539862Z",
     "last_status": "OK"
   },
   "suno.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572265Z",
+    "last_checked": "2026-10-09T08:14:46.539864Z",
     "last_status": "OK"
   },
   "suno.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572267Z",
+    "last_checked": "2026-10-09T08:14:46.539867Z",
     "last_status": "OK"
   },
   "supermaven.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572268Z",
+    "last_checked": "2026-10-09T08:14:46.539869Z",
     "last_status": "OK"
   },
   "sweep.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572270Z",
+    "last_checked": "2026-10-09T08:14:46.539871Z",
     "last_status": "OK"
-  },
-  "swiftbank.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572271Z",
-    "last_status": "OK"
-  },
-  "swiftbank.us": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572273Z",
-    "last_status": "OK"
-  },
-  "swiftcapital.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572274Z",
-    "last_status": "UNKNOWN"
-  },
-  "swiftfinancial.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572276Z",
-    "last_status": "UNKNOWN"
-  },
-  "swiftfinancial.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572277Z",
-    "last_status": "OK"
-  },
-  "swiftfinancial.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572278Z",
-    "last_status": "UNKNOWN"
   },
   "sydney.bing.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572280Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539873Z",
+    "last_status": "OK"
   },
   "synthesia.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572282Z",
+    "last_checked": "2026-10-09T08:14:46.539875Z",
     "last_status": "OK"
   },
   "tabbyml.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572283Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539877Z",
+    "last_status": "OK"
   },
   "tabnine.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572284Z",
+    "last_checked": "2026-10-09T08:14:46.539879Z",
+    "last_status": "OK"
+  },
+  "talkai.info": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539881Z",
+    "last_status": "OK"
+  },
+  "tapnow.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539883Z",
     "last_status": "OK"
   },
   "tavily.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572286Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539885Z",
+    "last_status": "OK"
   },
   "telemetry.aws-language-servers.us-east-1.amazonaws.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572287Z",
-    "last_status": "UNKNOWN"
-  },
-  "thepaypalshop.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572289Z",
-    "last_status": "UNKNOWN"
-  },
-  "theshoppingexpresslane.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572290Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539887Z",
+    "last_status": "OK"
   },
   "thinkingmachines.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572291Z",
+    "last_checked": "2026-10-09T08:14:46.539889Z",
     "last_status": "OK"
   },
   "tldv.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572292Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539891Z",
+    "last_status": "OK"
   },
   "together.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572294Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539893Z",
+    "last_status": "OK"
   },
   "together.xyz": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572298Z",
+    "last_checked": "2026-10-09T08:14:46.539895Z",
     "last_status": "OK"
   },
   "topazlabs.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572300Z",
+    "last_checked": "2026-10-09T08:14:46.539897Z",
+    "last_status": "OK"
+  },
+  "tripo3d.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539899Z",
     "last_status": "OK"
   },
   "trychroma.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572305Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539901Z",
+    "last_status": "OK"
   },
   "turbopuffer.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572307Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539903Z",
+    "last_status": "OK"
   },
   "turn.livekit.cloud": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572308Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539905Z",
+    "last_status": "OK"
   },
   "udio.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572310Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539907Z",
+    "last_status": "OK"
+  },
+  "us-central1-xi-labs.cloudfunctions.net": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539909Z",
+    "last_status": "OK"
   },
   "v0.app": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572311Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539911Z",
+    "last_status": "OK"
   },
   "v0.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572312Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539913Z",
+    "last_status": "OK"
   },
   "vast.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572314Z",
-    "last_status": "UNKNOWN"
+    "last_checked": "2026-10-09T08:14:46.539915Z",
+    "last_status": "OK"
   },
-  "venmo-touch.com": {
+  "vellum.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572315Z",
+    "last_checked": "2026-10-09T08:14:46.539917Z",
     "last_status": "OK"
   },
   "venmo.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572317Z",
-    "last_status": "OK"
-  },
-  "venmo.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572318Z",
-    "last_status": "UNKNOWN"
-  },
-  "venmo.net": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572319Z",
-    "last_status": "OK"
-  },
-  "venmo.org": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572321Z",
-    "last_status": "OK"
-  },
-  "venmo.s3.amazonaws.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572322Z",
+    "last_checked": "2026-10-09T08:14:46.539919Z",
     "last_status": "OK"
   },
   "viggle.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572323Z",
+    "last_checked": "2026-10-09T08:14:46.539921Z",
     "last_status": "OK"
   },
   "voice.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572325Z",
+    "last_checked": "2026-10-09T08:14:46.539925Z",
     "last_status": "OK"
   },
   "voyageai.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572326Z",
+    "last_checked": "2026-10-09T08:14:46.539927Z",
+    "last_status": "OK"
+  },
+  "waa-pa.clients6.google.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539929Z",
     "last_status": "OK"
   },
   "wandb.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572327Z",
+    "last_checked": "2026-10-09T08:14:46.539930Z",
     "last_status": "OK"
   },
   "wandb.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572329Z",
+    "last_checked": "2026-10-09T08:14:46.539932Z",
     "last_status": "OK"
   },
   "warp.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572330Z",
+    "last_checked": "2026-10-09T08:14:46.539934Z",
     "last_status": "OK"
   },
   "watsonx.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572331Z",
+    "last_checked": "2026-10-09T08:14:46.539936Z",
     "last_status": "OK"
   },
   "weaviate.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572333Z",
+    "last_checked": "2026-10-09T08:14:46.539938Z",
     "last_status": "OK"
   },
-  "webmoneyinfo.com": {
+  "webchannel-alkalimakersuite-pa.clients6.google.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572334Z",
+    "last_checked": "2026-10-09T08:14:46.539940Z",
     "last_status": "OK"
   },
   "wellsaid.io": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572336Z",
+    "last_checked": "2026-10-09T08:14:46.539942Z",
     "last_status": "OK"
   },
   "wellsaidlabs.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572337Z",
+    "last_checked": "2026-10-09T08:14:46.539944Z",
     "last_status": "OK"
   },
   "windsurf-telemetry.codeium.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572339Z",
+    "last_checked": "2026-10-09T08:14:46.539946Z",
     "last_status": "OK"
   },
   "windsurf.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572340Z",
+    "last_checked": "2026-10-09T08:14:46.539948Z",
+    "last_status": "OK"
+  },
+  "windsurf.build": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539950Z",
     "last_status": "OK"
   },
   "windsurf.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572341Z",
+    "last_checked": "2026-10-09T08:14:46.539952Z",
     "last_status": "OK"
   },
-  "wiremoneytoirelandwithxoomeasierandcheaper.com": {
+  "withpersona.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572343Z",
+    "last_checked": "2026-10-09T08:14:46.539954Z",
     "last_status": "OK"
   },
   "wordtune.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572344Z",
+    "last_checked": "2026-10-09T08:14:46.539956Z",
+    "last_status": "OK"
+  },
+  "workos.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539958Z",
     "last_status": "OK"
   },
   "writer.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572345Z",
+    "last_checked": "2026-10-09T08:14:46.539960Z",
     "last_status": "OK"
   },
   "writesonic.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572346Z",
-    "last_status": "OK"
-  },
-  "www-paypal.info": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572348Z",
-    "last_status": "OK"
-  },
-  "www-paypal.us": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572350Z",
+    "last_checked": "2026-10-09T08:14:46.539962Z",
     "last_status": "OK"
   },
   "www.bing.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572352Z",
-    "last_status": "OK"
-  },
-  "wwwxoom.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572353Z",
+    "last_checked": "2026-10-09T08:14:46.539964Z",
     "last_status": "OK"
   },
   "x.ai": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572354Z",
-    "last_status": "OK"
-  },
-  "xn--bnq297cix3a.cn": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572356Z",
-    "last_status": "OK"
-  },
-  "xoom-experience.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572357Z",
-    "last_status": "OK"
-  },
-  "xoom.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572358Z",
-    "last_status": "OK"
-  },
-  "xoom.io": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572360Z",
-    "last_status": "OK"
-  },
-  "xoom.net.cn": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572361Z",
-    "last_status": "OK"
-  },
-  "xoom.us": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572362Z",
-    "last_status": "OK"
-  },
-  "xoomcom.com": {
-    "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572364Z",
+    "last_checked": "2026-10-09T08:14:46.539966Z",
     "last_status": "OK"
   },
   "you.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572365Z",
+    "last_checked": "2026-10-09T08:14:46.539969Z",
+    "last_status": "OK"
+  },
+  "youmind.ai": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539971Z",
+    "last_status": "OK"
+  },
+  "youmind.com": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539974Z",
+    "last_status": "OK"
+  },
+  "youmind.site": {
+    "count": 0,
+    "last_checked": "2026-10-09T08:14:46.539976Z",
     "last_status": "OK"
   },
   "zed.dev": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572366Z",
+    "last_checked": "2026-10-09T08:14:46.539978Z",
     "last_status": "OK"
   },
   "zenrows.com": {
     "count": 0,
-    "last_checked": "2026-10-08T08:14:01.572367Z",
+    "last_checked": "2026-10-09T08:14:46.539980Z",
     "last_status": "OK"
   }
 }
