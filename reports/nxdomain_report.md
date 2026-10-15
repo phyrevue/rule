@@ -1,10 +1,10 @@
-# NXDOMAIN Report (2026-10-14 06:56:51Z)
+# NXDOMAIN Report (2026-10-15 06:48:11Z)
 
 Categories: OverseasAI
 Checked domains: 479
 OK: 476
-NXDOMAIN: 1
-UNKNOWN: 2
+NXDOMAIN: 2
+UNKNOWN: 1
 
 Threshold: 3 consecutive NXDOMAIN
 
@@ -15,4 +15,3 @@ Threshold: 3 consecutive NXDOMAIN
 
 ## Unknowns
 - comfyci.org
-- comfyregistry.org
