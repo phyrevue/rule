@@ -6,13 +6,13 @@
 # SOURCE: https://github.com/viewer12/OverseasAI.list
 # SOURCE-PATH: rule/Clash/OverseasAI/OverseasAI.list
 # CUSTOM: rule/Clash/OverseasAI/OverseasAI_Custom.list
-# UPDATED: 2026-10-16 06:36:39Z
+# UPDATED: 2026-10-17 06:25:55Z
 # DOMAIN: 86
-# DOMAIN-SUFFIX: 396
+# DOMAIN-SUFFIX: 397
 # DOMAIN-KEYWORD: 11
 # IP-CIDR: 2
 # IP-ASN: 2
-# TOTAL: 497
+# TOTAL: 498
 DOMAIN,ai-gateway.vercel.sh
 DOMAIN,ai.google.dev
 DOMAIN,aicode.googleapis.com
@@ -463,6 +463,7 @@ DOMAIN-SUFFIX,tripo3d.ai
 DOMAIN-SUFFIX,trychroma.com
 DOMAIN-SUFFIX,turbopuffer.com
 DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-SUFFIX,typesafe.ai
 DOMAIN-SUFFIX,udio.com
 DOMAIN-SUFFIX,v0.app
 DOMAIN-SUFFIX,v0.dev
