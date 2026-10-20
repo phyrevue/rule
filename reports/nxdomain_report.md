@@ -1,10 +1,10 @@
-# NXDOMAIN Report (2026-10-19 07:09:37Z)
+# NXDOMAIN Report (2026-10-20 06:56:34Z)
 
 Categories: OverseasAI
 Checked domains: 480
 OK: 477
-NXDOMAIN: 3
-UNKNOWN: 0
+NXDOMAIN: 2
+UNKNOWN: 1
 
 Threshold: 3 consecutive NXDOMAIN
 
@@ -14,4 +14,4 @@ Threshold: 3 consecutive NXDOMAIN
 - gateway.bingviz.microsoft.net
 
 ## Unknowns
-- (none)
+- comfyci.org
