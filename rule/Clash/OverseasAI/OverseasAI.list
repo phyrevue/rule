@@ -6,13 +6,13 @@
 # SOURCE: https://github.com/viewer12/OverseasAI.list
 # SOURCE-PATH: rule/Clash/OverseasAI/OverseasAI.list
 # CUSTOM: rule/Clash/OverseasAI/OverseasAI_Custom.list
-# UPDATED: 2026-10-20 06:56:29Z
+# UPDATED: 2026-10-21 06:51:03Z
 # DOMAIN: 86
-# DOMAIN-SUFFIX: 397
+# DOMAIN-SUFFIX: 399
 # DOMAIN-KEYWORD: 11
 # IP-CIDR: 2
 # IP-ASN: 2
-# TOTAL: 498
+# TOTAL: 500
 DOMAIN,ai-gateway.vercel.sh
 DOMAIN,ai.google.dev
 DOMAIN,aicode.googleapis.com
@@ -167,6 +167,7 @@ DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,ciciaicdn.com
 DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,claicode.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.dev
@@ -190,6 +191,7 @@ DOMAIN-SUFFIX,colossyan.com
 DOMAIN-SUFFIX,comfy.org
 DOMAIN-SUFFIX,comfyci.org
 DOMAIN-SUFFIX,comfyregistry.org
+DOMAIN-SUFFIX,commandcode.ai
 DOMAIN-SUFFIX,composio.dev
 DOMAIN-SUFFIX,context7.com
 DOMAIN-SUFFIX,continue.dev
