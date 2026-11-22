@@ -1,10 +1,10 @@
-# NXDOMAIN Report (2026-11-21 09:00:25Z)
+# NXDOMAIN Report (2026-11-22 09:08:50Z)
 
 Categories: OverseasAI
 Checked domains: 483
 OK: 480
-NXDOMAIN: 3
-UNKNOWN: 0
+NXDOMAIN: 2
+UNKNOWN: 1
 
 Threshold: 3 consecutive NXDOMAIN
 
@@ -14,4 +14,4 @@ Threshold: 3 consecutive NXDOMAIN
 - windsurf.build
 
 ## Unknowns
-- (none)
+- comfyci.org
