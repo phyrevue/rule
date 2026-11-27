@@ -1,4 +1,4 @@
-# NXDOMAIN Report (2026-11-26 10:15:49Z)
+# NXDOMAIN Report (2026-11-27 10:22:29Z)
 
 Categories: OverseasAI
 Checked domains: 483
